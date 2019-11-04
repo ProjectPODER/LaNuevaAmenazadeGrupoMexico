@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: "El agua en el Río Sonora"
 
 # Logo image
 image: tb-logo.png
 
 #Description of your site
 description: >-
-  TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
+  Este proyecto muestra los contratos de los subcontratistas y proveedores de Grupo México para la expansión de su mina Buenavista del Cobre en Sonora, que incluye la nueva presa de Jales. Una serie de factores, a los que se suma la presencia e irresponsabilidad de la empresa de Germán Larrea pone en peligro el acceso al agua por parte de los habitantes de la Cuenca del Río Sonora.
 
 # URL of your contracts file or API endpoint
 contracts_url: "/assets/data/contracts.csv"
