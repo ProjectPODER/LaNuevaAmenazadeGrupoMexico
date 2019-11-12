@@ -1,122 +1,122 @@
 NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION,PUESTO
-ICA FLUOR DANIEL S. DE R.L. DE C.V.,Empresa,,,
-"GRUPO CONSTRUCCIONES PLANIFICADAS, S.A. DE C.V.",Empresa,,,
-"SIEMENS INNOVACIONES, S.A. DE C.V.",Empresa,,,
-"GLUYAS CONSTRUCCIONES, S.A. DE C.V.",Empresa,,,
-"CAL Y MAYOR Y ASOCIADOS, S.C.",Empresa,,,
-"TECNOASFALTOS Y TERRACERIAS, S.A. DE C.V.",Empresa,,,
-"PRAXAIR MÉXICO, S.DE R.L. DE C.V.",Empresa,,,
-"METSO MINERALS MÉXICO, S.A. DE C.V.",Empresa,,,
-"SIEMENS, S.A. DE C.V.",Empresa,,,
-ABENGOA MÉXICO S.A. DE C.V.,Empresa,,,
-"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",Empresa,,,
-"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",Empresa,,,
-"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",Empresa,,,
-"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",Empresa,,,
-"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",Empresa,,,
-SIEMENS AG C/O SIEMENS ENERGY & AUTOMATION INC.,Empresa,,,
-KENDALL DE MEXICO SA DE CV,Empresa,,,
-"ISOLUX INGENIERÍA, S.A.",Empresa,,,
-"SIEMENS INNOVACIONES, S.A. DE C.V. SIEMENS, S.A. DE C.V.",Empresa,,,
-"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",Empresa,,,
-"BOMBAS INTERNACIONALES MEXICANAS, S.A. DE C.V.",Empresa,,,
-"BERMAD MEXICO, S.A. DE C.V.",Empresa,,,
-"Siemens Energy, Inc.",Empresa,,,
-"SIEMENS ENTERPRISE COMMUNICATIONS, S.A. DE C.V.",Empresa,,,
-"CONSTRUCTORA TRAX, S.A. DE C.V.",Empresa,,,
-"CONSTRUCTORA TRAX, S.A. DE C.V.",Empresa,,,
-"CONSTRUCTORA TRAX, S.A. DE C.V.",Empresa,,,
-DEPROYCO S.A. DE C.V.,Empresa,,,
-"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",Empresa,,,
-"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",Empresa,,,
-"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",Empresa,,,
-"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",Empresa,,,
-"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",Empresa,,,
-"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",Empresa,,,
-"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",Empresa,,,
-"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",Empresa,,,
-"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",Empresa,,,
-"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",Empresa,,,
-"OESTEC DE MEXICO, S.A. DE C.V.",Empresa,,,
-"OESTEC DE MEXICO, S.A. DE C.V.",Empresa,,,
-"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",Empresa,,,
-"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",Empresa,,,
-"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",Empresa,,,
-"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",Empresa,,,
-"SIEMENS AG POWER GENERATION I&C / SIEMENS INNOVACIONES, S.A. DE C.V.",Empresa,,,
-"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",Empresa,,,
-"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",Empresa,,,
-"ANVI MEXICANA, S.A. DE C.V.",Empresa,,,
-"ANVI MEXICANA, S.A. DE C.V.",Empresa,,,
-"ANVI MEXICANA, S.A. DE C.V.",Empresa,,,
-"ANVI MEXICANA, S.A. DE C.V.",Empresa,,,
-"ANVI MEXICANA, S.A. DE C.V.",Empresa,,,
-SIEMENS INDUSTRY SOFTWARE SA DE CV,Empresa,,,
-"WEIR MINERALS MEXICO, S.A. DE C.V.",Empresa,,,
-"SMC CORPORATION MEXICO, S.A. DE C.V.",Empresa,,,
-ICA FLUOR DANIEL S. DE R.L. DE C.V.,Empresa,"Empresas ICA, S.A.B. de C.V.",parent,
-"SIEMENS INNOVACIONES, S.A. DE C.V.",Empresa,"Siemens, AG",parent,
-"PRAXAIR MÉXICO, S.DE R.L. DE C.V.",Empresa,Linde PLC,parent,
-"METSO MINERALS MÉXICO, S.A. DE C.V.",Empresa,Metso Corporation,parent,
-"SIEMENS, S.A. DE C.V.",Empresa,"Siemens, AG",parent,
-ABENGOA MÉXICO S.A. DE C.V.,Empresa,"Abengoa, S.A.",parent,
-SIEMENS AG C/O SIEMENS ENERGY & AUTOMATION INC.,Empresa,"Siemens, AG",parent,
-KENDALL DE MEXICO SA DE CV,Empresa,Medtronic plc,parent,
-"ISOLUX INGENIERÍA, S.A.",Empresa,"Grupo Isolux Corsán, S.A.",parent,
-"SIEMENS INNOVACIONES, S.A. DE C.V. SIEMENS, S.A. DE C.V.",Empresa,"Siemens, AG",parent,
-"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",Empresa,Grupo ACS,parent,
-"BERMAD MEXICO, S.A. DE C.V.",Empresa,BERMAD CS Ltd.,parent,
-"Siemens Energy, Inc.",Empresa,"Siemens, AG",parent,
-"SIEMENS ENTERPRISE COMMUNICATIONS, S.A. DE C.V.",Empresa,"Siemens, AG",parent,
-"OESTEC DE MEXICO, S.A. DE C.V.",Empresa,Oestec International Inc.,shareholder,socio
-"SIEMENS AG POWER GENERATION I&C / SIEMENS INNOVACIONES, S.A. DE C.V.",Empresa,"Siemens, AG",shareholder,socio
-SIEMENS INDUSTRY SOFTWARE SA DE CV,Empresa,"Siemens, AG",parent,
-"WEIR MINERALS MEXICO, S.A. DE C.V.",Empresa,The Weir Group PLC,parent,
-"SMC CORPORATION MEXICO, S.A. DE C.V.",Empresa,SMC Corporation ,parent,
-Alfonso Reina Villegas,Persona,"GRUPO CONSTRUCCIONES PLANIFICADAS, S.A. DE C.V.",boardmember,Director
-Marcos F. Gluyas Solórzano,Persona,"GLUYAS CONSTRUCCIONES, S.A. DE C.V.",boardmember,Fundador
-Patricio Cal y Mayor Leach,Persona,"CAL Y MAYOR Y ASOCIADOS, S.C.",boardmember,Presidente
-Jose Gustavo Mendivil Baranzini,Persona,"TECNOASFALTOS Y TERRACERIAS, S.A. DE C.V.",shareholder,Socio
-Cesar Miguel Law N.,Persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
-Rene Alvarez Gutierrez,Persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
-Carlos Law Niebla,Persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
-Alfredo Alvarez S.,Persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
-Federico Sanchez Padilla,Persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
-Marcial Meneses Luna,Persona,"BOMBAS INTERNACIONALES MEXICANAS, S.A. DE C.V.",shareholder,socio
-Martin Johnson Maytorena,Persona,"CONSTRUCTORA TRAX, S.A. DE C.V.",shareholder,socio
-Adolfo Garcia Solis,Persona,"CONSTRUCTORA TRAX, S.A. DE C.V.",shareholder,socio
-Jesus Roberto Sitten Ayala,Persona,"CONSTRUCTORA TRAX, S.A. DE C.V.",shareholder,socio
-Ramona Murrieta Miranda,Persona,DEPROYCO S.A. DE C.V.,shareholder,socio
-Javier Dominguez Aguilar,Persona,"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",shareholder,socio
-Moises Tirado Marin,Persona,"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",shareholder,socio
-Rene Eduardo García Salazar,Persona,"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",shareholder,socio
-Alfredo García Salazar,Persona,"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",shareholder,socio
-Juan Francisco Simon Diaz,Persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
-Aurelio Gama Avellaneda,Persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
-Ramiro Gutierrez Rojas,Persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
-Ramiro Gutierrez Rojas,Persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
-Celia Diaz Arroyo,Persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
-Arturo Castro Vargas,Persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
-James Ernest Warne Jr.,Persona,"OESTEC DE MEXICO, S.A. DE C.V.",shareholder,socio
-Cristobal Ojeda Zamudio,Persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
-Martin Figueroa Castillo,Persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
-Milt Llamas Flores,Persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
-Benito Cueva Lozano,Persona,"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
-Armando Cueva Lozano,Persona,"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
-Gustavo Jesus Barrales Vega,Persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
-Guillermo Victor Manuel Barrales Rodriguez,Persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
-Pedro Victor Manuel Barrales Vega,Persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
-Gustavo Jesus Barrales Vega,Persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
-Gustavo Jesus Barrales Del Toro,Persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
-Bernardo Quintana Isaac,Persona,"Empresas ICA, S.A.B. de C.V.",boardmember,Presidente
-Joe Kaeser,Persona,"Siemens, AG",boardmember,Presidente
-Wolfgang H. Reitzle,Persona,Linde PLC,boardmember,Presidente
-Mikael Lilius,Persona,Metso Corporation,boardmember,Presidente
-Gonzalo Urquijo y Fernández de Araoz,Persona,"Abengoa, S.A.",boardmember,Presidente
-Omar S. Ishrak,Persona,Medtronic plc,boardmember,Presidente
-Charles Berry,Persona,The Weir Group PLC,boardmember,Presidente Independiente
-Katsunori Maruyama,Persona,SMC Corporation ,boardmember,Presidente
-Isaac Lidor,Persona,BERMAD CS Ltd.,boardmember,Presidente
-James E. Warne III,Persona,Oestec International Inc.,boardmember,Presidente
-Antonio Portela Alvarez,Persona,"Grupo Isolux Corsán, S.A.",boardmember,Presidente
-Florentino Perez,Persona,"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",boardmember,Presidente
+ICA FLUOR DANIEL S. DE R.L. DE C.V.,empresa,,,
+"GRUPO CONSTRUCCIONES PLANIFICADAS, S.A. DE C.V.",empresa,,,
+"SIEMENS INNOVACIONES, S.A. DE C.V.",empresa,,,
+"GLUYAS CONSTRUCCIONES, S.A. DE C.V.",empresa,,,
+"CAL Y MAYOR Y ASOCIADOS, S.C.",empresa,,,
+"TECNOASFALTOS Y TERRACERIAS, S.A. DE C.V.",empresa,,,
+"PRAXAIR MÉXICO, S.DE R.L. DE C.V.",empresa,,,
+"METSO MINERALS MÉXICO, S.A. DE C.V.",empresa,,,
+"SIEMENS, S.A. DE C.V.",empresa,,,
+ABENGOA MÉXICO S.A. DE C.V.,empresa,,,
+"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",empresa,,,
+"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",empresa,,,
+"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",empresa,,,
+"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",empresa,,,
+"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",empresa,,,
+SIEMENS AG C/O SIEMENS ENERGY & AUTOMATION INC.,empresa,,,
+KENDALL DE MEXICO SA DE CV,empresa,,,
+"ISOLUX INGENIERÍA, S.A.",empresa,,,
+"SIEMENS INNOVACIONES, S.A. DE C.V. SIEMENS, S.A. DE C.V.",empresa,,,
+"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",empresa,,,
+"BOMBAS INTERNACIONALES MEXICANAS, S.A. DE C.V.",empresa,,,
+"BERMAD MEXICO, S.A. DE C.V.",empresa,,,
+"Siemens Energy, Inc.",empresa,,,
+"SIEMENS ENTERPRISE COMMUNICATIONS, S.A. DE C.V.",empresa,,,
+"CONSTRUCTORA TRAX, S.A. DE C.V.",empresa,,,
+"CONSTRUCTORA TRAX, S.A. DE C.V.",empresa,,,
+"CONSTRUCTORA TRAX, S.A. DE C.V.",empresa,,,
+DEPROYCO S.A. DE C.V.,empresa,,,
+"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",empresa,,,
+"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",empresa,,,
+"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",empresa,,,
+"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",empresa,,,
+"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",empresa,,,
+"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",empresa,,,
+"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",empresa,,,
+"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",empresa,,,
+"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",empresa,,,
+"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",empresa,,,
+"OESTEC DE MEXICO, S.A. DE C.V.",empresa,,,
+"OESTEC DE MEXICO, S.A. DE C.V.",empresa,,,
+"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",empresa,,,
+"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",empresa,,,
+"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",empresa,,,
+"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",empresa,,,
+"SIEMENS AG POWER GENERATION I&C / SIEMENS INNOVACIONES, S.A. DE C.V.",empresa,,,
+"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",empresa,,,
+"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",empresa,,,
+"ANVI MEXICANA, S.A. DE C.V.",empresa,,,
+"ANVI MEXICANA, S.A. DE C.V.",empresa,,,
+"ANVI MEXICANA, S.A. DE C.V.",empresa,,,
+"ANVI MEXICANA, S.A. DE C.V.",empresa,,,
+"ANVI MEXICANA, S.A. DE C.V.",empresa,,,
+SIEMENS INDUSTRY SOFTWARE SA DE CV,empresa,,,
+"WEIR MINERALS MEXICO, S.A. DE C.V.",empresa,,,
+"SMC CORPORATION MEXICO, S.A. DE C.V.",empresa,,,
+ICA FLUOR DANIEL S. DE R.L. DE C.V.,empresa,"Empresas ICA, S.A.B. de C.V.",parent,
+"SIEMENS INNOVACIONES, S.A. DE C.V.",empresa,"Siemens, AG",parent,
+"PRAXAIR MÉXICO, S.DE R.L. DE C.V.",empresa,Linde PLC,parent,
+"METSO MINERALS MÉXICO, S.A. DE C.V.",empresa,Metso Corporation,parent,
+"SIEMENS, S.A. DE C.V.",empresa,"Siemens, AG",parent,
+ABENGOA MÉXICO S.A. DE C.V.,empresa,"Abengoa, S.A.",parent,
+SIEMENS AG C/O SIEMENS ENERGY & AUTOMATION INC.,empresa,"Siemens, AG",parent,
+KENDALL DE MEXICO SA DE CV,empresa,Medtronic plc,parent,
+"ISOLUX INGENIERÍA, S.A.",empresa,"Grupo Isolux Corsán, S.A.",parent,
+"SIEMENS INNOVACIONES, S.A. DE C.V. SIEMENS, S.A. DE C.V.",empresa,"Siemens, AG",parent,
+"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",empresa,Grupo ACS,parent,
+"BERMAD MEXICO, S.A. DE C.V.",empresa,BERMAD CS Ltd.,parent,
+"Siemens Energy, Inc.",empresa,"Siemens, AG",parent,
+"SIEMENS ENTERPRISE COMMUNICATIONS, S.A. DE C.V.",empresa,"Siemens, AG",parent,
+"OESTEC DE MEXICO, S.A. DE C.V.",empresa,Oestec International Inc.,shareholder,socio
+"SIEMENS AG POWER GENERATION I&C / SIEMENS INNOVACIONES, S.A. DE C.V.",empresa,"Siemens, AG",shareholder,socio
+SIEMENS INDUSTRY SOFTWARE SA DE CV,empresa,"Siemens, AG",parent,
+"WEIR MINERALS MEXICO, S.A. DE C.V.",empresa,The Weir Group PLC,parent,
+"SMC CORPORATION MEXICO, S.A. DE C.V.",empresa,SMC Corporation ,parent,
+Alfonso Reina Villegas,persona,"GRUPO CONSTRUCCIONES PLANIFICADAS, S.A. DE C.V.",boardmember,Director
+Marcos F. Gluyas Solórzano,persona,"GLUYAS CONSTRUCCIONES, S.A. DE C.V.",boardmember,Fundador
+Patricio Cal y Mayor Leach,persona,"CAL Y MAYOR Y ASOCIADOS, S.C.",boardmember,Presidente
+Jose Gustavo Mendivil Baranzini,persona,"TECNOASFALTOS Y TERRACERIAS, S.A. DE C.V.",shareholder,Socio
+Cesar Miguel Law N.,persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
+Rene Alvarez Gutierrez,persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
+Carlos Law Niebla,persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
+Alfredo Alvarez S.,persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
+Federico Sanchez Padilla,persona,"BUFETE DE INGENIERÍA DE SONORA, S.A. DE C.V.",shareholder,socio
+Marcial Meneses Luna,persona,"BOMBAS INTERNACIONALES MEXICANAS, S.A. DE C.V.",shareholder,socio
+Martin Johnson Maytorena,persona,"CONSTRUCTORA TRAX, S.A. DE C.V.",shareholder,socio
+Adolfo Garcia Solis,persona,"CONSTRUCTORA TRAX, S.A. DE C.V.",shareholder,socio
+Jesus Roberto Sitten Ayala,persona,"CONSTRUCTORA TRAX, S.A. DE C.V.",shareholder,socio
+Ramona Murrieta Miranda,persona,DEPROYCO S.A. DE C.V.,shareholder,socio
+Javier Dominguez Aguilar,persona,"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",shareholder,socio
+Moises Tirado Marin,persona,"CONSULTORIA E INGENIERIA ESPECIALIZADA EN CAMINOS CIESCA, S.A. DE C.V.",shareholder,socio
+Rene Eduardo García Salazar,persona,"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",shareholder,socio
+Alfredo García Salazar,persona,"CONSTRUCTORES Y URBANIZADORES DEL NOROESTE, S.A. DE C.V.",shareholder,socio
+Juan Francisco Simon Diaz,persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
+Aurelio Gama Avellaneda,persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
+Ramiro Gutierrez Rojas,persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
+Ramiro Gutierrez Rojas,persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
+Celia Diaz Arroyo,persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
+Arturo Castro Vargas,persona,"CONSTRUCCIONES Y REMODELACIONES DE TIERRA CALIENTE, S.A. DE C.V.",shareholder,socio
+James Ernest Warne Jr.,persona,"OESTEC DE MEXICO, S.A. DE C.V.",shareholder,socio
+Cristobal Ojeda Zamudio,persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
+Martin Figueroa Castillo,persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
+Milt Llamas Flores,persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
+Benito Cueva Lozano,persona,"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
+Armando Cueva Lozano,persona,"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
+Gustavo Jesus Barrales Vega,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
+Guillermo Victor Manuel Barrales Rodriguez,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
+Pedro Victor Manuel Barrales Vega,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
+Gustavo Jesus Barrales Vega,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
+Gustavo Jesus Barrales Del Toro,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
+Bernardo Quintana Isaac,persona,"Empresas ICA, S.A.B. de C.V.",boardmember,Presidente
+Joe Kaeser,persona,"Siemens, AG",boardmember,Presidente
+Wolfgang H. Reitzle,persona,Linde PLC,boardmember,Presidente
+Mikael Lilius,persona,Metso Corporation,boardmember,Presidente
+Gonzalo Urquijo y Fernández de Araoz,persona,"Abengoa, S.A.",boardmember,Presidente
+Omar S. Ishrak,persona,Medtronic plc,boardmember,Presidente
+Charles Berry,persona,The Weir Group PLC,boardmember,Presidente Independiente
+Katsunori Maruyama,persona,SMC Corporation ,boardmember,Presidente
+Isaac Lidor,persona,BERMAD CS Ltd.,boardmember,Presidente
+James E. Warne III,persona,Oestec International Inc.,boardmember,Presidente
+Antonio Portela Alvarez,persona,"Grupo Isolux Corsán, S.A.",boardmember,Presidente
+Florentino Perez,persona,"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",boardmember,Presidente
