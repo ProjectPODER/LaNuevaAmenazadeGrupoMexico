@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# La nueva amenaza de Grupo México para el Río Sonora
+# La nueva amenaza de Grupo México
 
 This text is a paragraph.
 This won't be another paragraph, it will join the line above it.
