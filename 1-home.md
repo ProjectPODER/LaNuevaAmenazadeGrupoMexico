@@ -1,17 +1,16 @@
 ---
 layout: home
-title: Home
+title: Inicio
 permalink: /
 ---
 
-# La nueva amenaza de Grupo México
+# LA NUEVA AMENAZA <br>DE GRUPO MÉXICO
 
 This text is a paragraph.
 This won't be another paragraph, it will join the line above it.
 
 This will be another paragraph, as it has a blank line above it.
 
-[Website version](https://towerbuilder.projectpoder.org/)
-[Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
-[Visualization iframe](https://towerbuilder.projectpoder.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.projectpoder.org/iframe-slider/)
+[Visualización](/visualizacion)
+[Reportaje](/reportaje)
+[Galería](/galeria)

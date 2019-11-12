@@ -1,14 +1,31 @@
+.navbar {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
 .navbar-brand {
     font-family: Lato;
     font-weight: bolder;
 }
 
 .navbar-brand img {
-    width: 80px;
-    padding: 5px 20px 5px 0;
+    height: 70px;
+    padding: 0;
 }
 
 .line{
     border-bottom: 2px solid;
     border-color: $primary;
+}
+
+.bg-light-navbar {
+    background: #ede4cc !important;
+}
+
+.bg-transparent {
+    background: transparent !important;
+}
+
+.nav-link {
+    font-weight: bold;
 }

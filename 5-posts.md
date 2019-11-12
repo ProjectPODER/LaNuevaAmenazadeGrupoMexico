@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Posts
-permalink: /posts/
+title: Reportaje
+permalink: /reportaje/
 ---
 
 # This is the title posts page
