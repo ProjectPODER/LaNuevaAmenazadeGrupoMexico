@@ -15,22 +15,25 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
-$blue:    #007bff !default;
-$indigo:  #6610f2 !default;
-$purple:  #6f42c1 !default;
-$pink:    #e83e8c !default;
-$red:     #dc3545 !default;
-$orange:  #fd7e14 !default;
-$yellow:  #ffce00 !default;
-$green:   #10492a !default;
-$teal:    #20c997 !default;
-$cyan:    #1491a5 !default;
-$brown:    #554433 !default;
+$red:              #dc3545 !default;
+$green:            #10492a;
+$light-green:      #136B05;
+$dark-brown:       #554422;
+$brown:            #bb7722;
+$light-brown:      #aa9966;
+$orange:           #ef7c2c;
+$dark-orange:      #e46710;
+$light-orange:     #f0936a;
+$dark-yellow:      #ffbb00;
+$yellow:           #ffce00;
+$lighter-green:    #aaccaa;
+$teal:             #11eeff;
+$beige:            #f6f1e5;
 
 $primary:       $yellow !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
-$info:          $cyan !default;
+$info:          $brown !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
@@ -40,14 +43,14 @@ $dark:          $gray-800 !default;
 //Home background image
 //You need to change only the name and the type of your image
 //For example:./img/your-image.png 
-$bgHome : "./img/nuevapresajales.jpg";
+$bgHome : "./img/nuevapresajales.png";
 
 
 // Links
 //
 // Style anchor elements.
 
-$link-color:                #bb7722 !default;
+$link-color:                $dark-orange !default;
 $link-decoration:           none !default;
 $link-hover-color:          darken($link-color, 5%) !default;
 $link-hover-decoration:     underline !default;
@@ -69,6 +72,6 @@ $font-size-lg:                ($font-size-base * 1.25) !default;
 $font-size-sm:                ($font-size-base * .875) !default;
 
 // Preloader colors
-$preloader-color1: #1ee6d3;
-$preloader-color2: #343a40;
+$preloader-color1: $dark-orange;
+$preloader-color2: $light-green;
 $preloader-color3: $primary;

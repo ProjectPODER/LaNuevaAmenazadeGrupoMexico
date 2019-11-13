@@ -19,7 +19,7 @@
 }
 
 .bg-light-navbar {
-    background: #ede4cc !important;
+    background: $beige !important;
 }
 
 .bg-transparent {
@@ -28,4 +28,14 @@
 
 .nav-link {
     font-weight: bold;
+}
+
+.navbar-collapse {
+    padding: 0 10px;
+}
+
+@media (max-width: 767px) {
+    .navbar-brand img {
+        height: 50px;
+    }
 }
