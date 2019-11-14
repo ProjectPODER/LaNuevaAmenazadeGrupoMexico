@@ -13,4 +13,4 @@ This will be another paragraph, as it has a blank line above it.
 
 [Visualización](/visualizacion)
 [Reportaje](/reportaje)
-[Galería](/galeria)
+[Los rostros del derrame](/Los-rostros-del-derrame)
