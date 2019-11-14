@@ -13,4 +13,4 @@ LA LA LA LA.
 
 [Visualización](/visualizacion)
 [Reportaje](/reportaje)
-[Los rostros del derrame](/Los-rostros-del-derrame)
+[Los afectados](/Los-afectados)
