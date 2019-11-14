@@ -11,6 +11,6 @@ BLA BLA BLA BLA.
 
 LA LA LA LA.
 
-[Visualización](/visualizacion)
+[Subcontratistas](/subcontratistas)
 [Reportaje](/reportaje)
 [Los afectados](/Los-afectados)
