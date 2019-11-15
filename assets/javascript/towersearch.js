@@ -35,6 +35,9 @@ function initSearch() {
         dom: "tp",
         pagingType: "numbers",
         data: organizations_data,
+        language: [
+            {"thousands": "'"}
+        ],
         columnDefs: [
             { className: "dt-left", targets: [0] },
             { className: "dt-center", targets: [1] },
@@ -57,7 +60,8 @@ function initSearch() {
                 title: "{{site.column_3}}",
                 data: "contracts_amount",
                 type: "num",
-                render: function(data, type, row, meta) { return data.toFixed(2) },
+                // render: function(data, type, row, meta) { return data.toFixed(2) },
+                render: $.fn.dataTable.render.number( ',', '.', 2, '$' ),
                 searchable: "false"
             }
         ],
@@ -226,7 +230,7 @@ function populateContracts( data ) {
             childContent +=     '</tr>';
             childContent +=     '<tr>';
             childContent +=         '<td width="50%">';
-            childContent +=             'Monto: $' + contract.amount + '<br />';
+            childContent +=             'Monto: ' + $.fn.dataTable.render.number( ',', '.', 2, '$' ).display(contract.amount) + '<br />';
             childContent +=             'Tipo de Procedimiento: ' + contract.procedure_type;
             childContent +=         '</td>';
             childContent +=         '<td width="50%">';
