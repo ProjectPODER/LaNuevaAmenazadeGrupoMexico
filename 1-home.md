@@ -6,11 +6,11 @@ permalink: /
 
 # LA NUEVA AMENAZA <br>DE GRUPO MÉXICO
 
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
+La presa de jales bla bla bla.
+BLA BLA BLA BLA.
 
-This will be another paragraph, as it has a blank line above it.
+LA LA LA LA.
 
-[Visualización](/visualizacion)
+[Subcontratistas](/subcontratistas)
 [Reportaje](/reportaje)
-[Galería](/galeria)
+[Los afectados](/Los-afectados)
