@@ -6,7 +6,7 @@
     padding: 10rem 0;
     background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
     background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url('#{$bgHome}');
-    background-position: 0 80%;
+    background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
@@ -36,6 +36,13 @@
     opacity: 0;
 }
 
+.legend-home {
+    position: absolute;
+    right: 3%;
+    width: 14%;
+    top: 232px;
+}
+
 @media (min-width: 992px) {
     .home-content {
         height: 100vh;
@@ -43,9 +50,18 @@
     }
 }
 
+@media (max-width: 992px) {
+    .home-content {
+        h1 {
+            font-size: 50px;
+            line-height: 55px;
+        }
+    }
+}
+
+
 @media (max-width: 767px) {
     .home-content {
-
         h1 {
             font-size: 40px;
             line-height: 45px;
@@ -53,5 +69,14 @@
         p {
             font-size: 1.2rem;
         }
+    }
+}
+
+@media (max-width: 455px) {
+    .legend-home {
+        position: absolute;
+        right: 3%;
+        width: 20%;
+        top: 285px;
     }
 }

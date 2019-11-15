@@ -33,10 +33,13 @@ var autocollapse = function (menu,maxHeight) {
       
         while (navHeight < maxHeight && (nav.children(menu + ' li').length > 0) && collapsed.length > 0) {
             //  remove child from dropdown
+            //TODO: if only one child is in the drop-down remove it and check height again
+            // if height is not ok, then remove it and proceed
             collapsed = $(menu + ' .dropdown-menu').children('li');
             $(collapsed[0]).insertBefore(nav.children(menu + ' li:last-child'));
             navHeight = nav.innerHeight();
         }
+        //TODO: if dropdown is empty, hide last child
 
         if (navHeight > maxHeight) { 
             autocollapse(menu,maxHeight);
