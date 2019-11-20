@@ -27,7 +27,7 @@ DEPROYCO S.A. DE C.V.,empresa,,,
 "OESTEC DE MEXICO, S.A. DE C.V.",empresa,,,
 "HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",empresa,,,
 "SIEMENS AG POWER GENERATION I&C / SIEMENS INNOVACIONES, S.A. DE C.V.",empresa,,,
-"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",empresa,,,
+"INSTALACIONES ELECTRICAS Y SERVICIOS CUVISA, S.A. DE C.V.",empresa,,,
 "ANVI MEXICANA, S.A. DE C.V.",empresa,,,
 SIEMENS INDUSTRY SOFTWARE SA DE CV,empresa,,,
 "WEIR MINERALS MEXICO, S.A. DE C.V.",empresa,,,
@@ -41,7 +41,6 @@ Metso Corporation,empresa,"METSO MINERALS MÉXICO, S.A. DE C.V.",parent,
 "Siemens, AG",empresa,SIEMENS AG C/O SIEMENS ENERGY & AUTOMATION INC.,parent,
 Medtronic plc,empresa,KENDALL DE MEXICO SA DE CV,parent,
 "Grupo Isolux Corsán, S.A.",empresa,"ISOLUX INGENIERÍA, S.A.",parent,
-"Siemens, AG",empresa,"SIEMENS INNOVACIONES, S.A. DE C.V. SIEMENS, S.A. DE C.V.",parent,
 Grupo ACS,empresa,"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",parent,
 BERMAD CS Ltd.,empresa,"BERMAD MEXICO, S.A. DE C.V.",parent,
 "Siemens, AG",empresa,"Siemens Energy, Inc.",parent,
@@ -79,8 +78,8 @@ James Ernest Warne Jr.,persona,"OESTEC DE MEXICO, S.A. DE C.V.",shareholder,soci
 Cristobal Ojeda Zamudio,persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
 Martin Figueroa Castillo,persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
 Milt Llamas Flores,persona,"HIDROSISTEMAS BAJA, S. DE R.L. DE C.V.",shareholder,socio
-Benito Cueva Lozano,persona,"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
-Armando Cueva Lozano,persona,"INSTALACIONES ELECTRICAS YSERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
+Benito Cueva Lozano,persona,"INSTALACIONES ELECTRICAS Y SERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
+Armando Cueva Lozano,persona,"INSTALACIONES ELECTRICAS Y SERVICIOS CUVISA, S.A. DE C.V.",shareholder,socio
 Gustavo Jesus Barrales Vega,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
 Guillermo Victor Manuel Barrales Rodriguez,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
 Pedro Victor Manuel Barrales Vega,persona,"ANVI MEXICANA, S.A. DE C.V.",shareholder,socio
@@ -97,4 +96,4 @@ Katsunori Maruyama,persona,SMC Corporation ,boardmember,Presidente
 Isaac Lidor,persona,BERMAD CS Ltd.,boardmember,Presidente
 James E. Warne III,persona,Oestec International Inc.,boardmember,Presidente
 Antonio Portela Alvarez,persona,"Grupo Isolux Corsán, S.A.",boardmember,Presidente
-Florentino Perez,persona,"CONTROL Y MONTAJES INDUSTRIALES CYMI, S.A.",boardmember,Presidente
+Florentino Perez,persona,Grupo ACS,boardmember,Presidente
