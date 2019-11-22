@@ -11,6 +11,6 @@ BLA BLA BLA BLA.
 
 LA LA LA LA.
 
-[Subcontratistas]({{ site.baseurl }}/subcontratistas)
+[Proveedores]({{ site.baseurl }}/proveedoras)
 [Reportaje]({{ site.baseurl }}/reportaje)
-[Los afectados]({{ site.baseurl }}/los-afectados)
+[Las afectadas]({{ site.baseurl }}/las-afectadas)
