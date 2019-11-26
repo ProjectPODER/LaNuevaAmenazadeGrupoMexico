@@ -10,5 +10,5 @@ Con una capacidad de almacenamiento de 2,040 millones de metros cúbicos de dese
 
 
 [Ellos construyen la presa]({{ site.baseurl }}/proveedoras)
-[Las historias del megaproyecto]({{ site.baseurl }}/las-historias-del-megaproyecto)
-[Las afectadas]({{ site.baseurl }}/las-afectadas)
+[Las historias detrás del megaproyecto]({{ site.baseurl }}/las-historias-del-megaproyecto)
+[Los rostros del derrame]({{ site.baseurl }}/las-afectadas)
