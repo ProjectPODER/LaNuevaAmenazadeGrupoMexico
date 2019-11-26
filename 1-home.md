@@ -11,6 +11,6 @@ BLA BLA BLA BLA.
 
 LA LA LA LA.
 
-[Quiénes son los contratistas de Larrea]({{ site.baseurl }}/proveedoras)
+[Ellos construyen la presa]({{ site.baseurl }}/proveedoras)
 [Reportaje]({{ site.baseurl }}/reportaje)
 [Las afectadas]({{ site.baseurl }}/las-afectadas)
