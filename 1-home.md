@@ -12,5 +12,5 @@ BLA BLA BLA BLA.
 LA LA LA LA.
 
 [Ellos construyen la presa]({{ site.baseurl }}/proveedoras)
-[Reportaje]({{ site.baseurl }}/reportaje)
+[La radiografía del megaproyecto]({{ site.baseurl }}/reportaje)
 [Las afectadas]({{ site.baseurl }}/las-afectadas)
