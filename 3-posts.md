@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Las historias del megaproyecto
-permalink: /las-historias-del-megaproyecto/
+title: Las historias detrás del megaproyecto
+permalink: /las-historias-detras-del-megaproyecto/
 ---
 
 # This is the title posts page
