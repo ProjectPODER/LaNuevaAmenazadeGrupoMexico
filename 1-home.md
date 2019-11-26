@@ -11,6 +11,6 @@ BLA BLA BLA BLA.
 
 LA LA LA LA.
 
-[Proveedores]({{ site.baseurl }}/proveedoras)
+[Quiénes son los contratistas de Larrea]({{ site.baseurl }}/proveedoras)
 [Reportaje]({{ site.baseurl }}/reportaje)
 [Las afectadas]({{ site.baseurl }}/las-afectadas)
