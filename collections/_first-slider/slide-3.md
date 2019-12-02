@@ -1,8 +1,8 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+image: https://player.vimeo.com/video/376941331
 ---
 
-# THIS IS THE THIRD SLIDE
+# "¡Exijimos justicia ya para el Río Sonora!"
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Así lo expresó Ramón Miranda, integrante de los Comités de Cuenca de Río Sonora. "Quiero que le manden un mensaje al señor Víctor Toledo de nuestra parte. Nosotros ya tuvimos el honor de verlo en Ciudad Obregón. En aquel tiempo nos decía que éramos 4 o 5, nos cuestionó que fuimos 4 personas, pues les hemos demostrado en el trayecto al Río Sonora que no somos 4 ni 5. El problema es muchísimo, mucho más grave de lo que dicen las autoridades aquí en Sonora."
