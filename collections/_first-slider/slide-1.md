@@ -1,6 +1,6 @@
 ---
 title: First Slide
-video: guadalupe-gamez-aconchi.mp4
+video: https://www.youtube.com/embed/q9y0Vb-8PJ0
 ---
 
 # THIS IS THE FIRST SLIDE
