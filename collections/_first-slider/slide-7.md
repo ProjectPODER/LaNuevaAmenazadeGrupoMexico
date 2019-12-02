@@ -1,5 +1,5 @@
 ---
-title: Slide 6
+title: Slide 7
 image: graphic-example6.png
 ---
 
