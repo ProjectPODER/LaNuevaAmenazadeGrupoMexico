@@ -3,6 +3,6 @@ title: First Slide
 video: eldaleonbanamichiyt.mp4
 ---
 
-# THIS IS THE FIRST SLIDE
+# Las voces de quienes asistieron a las reuniones
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Desde el 22 de octubre y hasta el 29, servidores de las áreas de participación ciudadana de la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) y de la Procuraduría Federal para la Defensa del Ambiente (Profepa), sostuvieron reuniones con la gente afectada por el derrame de lixiviado de cobre de Grupo México hace cinco años en Sonora. Banámichi, Huépac, Arizpe, Aconchi, Baviácora, Ures y Hermosillo fueron las cedes de las reuniones. Estos son algunos testimonios de quienes exigen justicia.
