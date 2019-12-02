@@ -1,6 +1,6 @@
 ---
 title: First Slide
-video: Elda%20leon%20banamichi.mp4
+video: eldaleonbanamichiyt.mp4
 ---
 
 # THIS IS THE FIRST SLIDE
