@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: graphic-example1.png
+video: guadalupe-gamez-aconchi.mp4
 ---
 
 # THIS IS THE FIRST SLIDE
