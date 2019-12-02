@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: https://player.vimeo.com/video/376941331
+video: https://player.vimeo.com/video/376941331
 ---
 
 # "¡Exijimos justicia ya para el Río Sonora!"
