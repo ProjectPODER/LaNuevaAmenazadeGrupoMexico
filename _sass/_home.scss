@@ -8,7 +8,7 @@
     background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.3) 85%,#161616 100%),url('#{$bgHome}');
     background-position: top;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
 
     h1 {
@@ -37,7 +37,7 @@
 }
 
 .legend-home {
-    position: fixed;
+    position: absolute;
 }
 
 .legend-home1 {
@@ -123,23 +123,15 @@
 
     .legend-home1 {
         right: 0;
-        top: 240px;
+        top: 390px;
         width: 12%;
     }
     
     .legend-home2 {
-        left: 9%;
-        top: 130px;
+        display: none;
     }
 
     .legend-home3, .legend-home4 {
-        display: none;
-    }
-    
-}
-
-@media (max-width: 767px) {
-    .legend-home2 {
         display: none;
     }
     
