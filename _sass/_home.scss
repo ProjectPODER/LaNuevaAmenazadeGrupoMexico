@@ -4,16 +4,16 @@
     height: auto;
     min-height: 35rem;
     padding: 10rem 0;
-    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
-    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url('#{$bgHome}');
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(85%,rgba(22,22,22,.3)),to(#161616)),url('#{$bgHome}');
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.3) 85%,#161616 100%),url('#{$bgHome}');
     background-position: top;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
 
     h1 {
-        font-size: 70px;
-        line-height: 75px;
+        font-size: 68px;
+        line-height: 72px;
         margin-bottom: 2rem;
         font-weight: bolder;
     }
@@ -23,7 +23,7 @@
         color: $white;
     }
     p {
-        font-size: 1.7rem;
+        font-size: 1.5rem;
     }
     a {
         @extend .btn;
@@ -37,10 +37,59 @@
 }
 
 .legend-home {
-    position: absolute;
+    position: fixed;
+}
+
+.legend-home1 {
     right: 3%;
+    top: 475px;
     width: 14%;
-    top: 232px;
+}
+
+.legend-home2 {
+    left: 9%;
+    top: 320px;
+    width: 10%;
+}
+
+.legend-home3 {
+    left: 0;
+    top: 120px;
+    width: 15%;
+}
+
+.legend-home4 {
+    right: 0;
+    top: 120px;
+    width: 15%;
+}
+
+@media (max-width: 1440px) {
+    .legend-home1 {
+        right: 0;
+        top: 450px;
+        width: 10%;
+    }
+    
+    .legend-home2 {
+        left: 5%;
+        top: 290px;
+    }
+    
+}
+
+@media (max-width: 1024px) {
+    .legend-home1 {
+        right: 0;
+        top: 450px;
+        width: 10%;
+    }
+    
+    .legend-home2 {
+        left: 0;
+        top: 260px;
+    }
+    
 }
 
 @media (min-width: 992px) {
@@ -59,9 +108,10 @@
     }
 }
 
-
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .home-content {
+        padding: 6rem 0;
+
         h1 {
             font-size: 40px;
             line-height: 45px;
@@ -70,13 +120,48 @@
             font-size: 1.2rem;
         }
     }
+
+    .legend-home1 {
+        right: 0;
+        top: 240px;
+        width: 12%;
+    }
+    
+    .legend-home2 {
+        left: 9%;
+        top: 130px;
+    }
+
+    .legend-home3, .legend-home4 {
+        display: none;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    .legend-home2 {
+        display: none;
+    }
+    
 }
 
 @media (max-width: 455px) {
-    .legend-home {
-        position: absolute;
+    .home-content {
+
+        h1 {
+            font-size: 30px;
+            line-height: 34px;
+        }
+        p {
+            font-size: 1.1rem;
+        }
+    }
+    .legend-home1 {
         right: 3%;
         width: 20%;
         top: 285px;
+    }
+    .legend-home2 {
+        display: none;
     }
 }
