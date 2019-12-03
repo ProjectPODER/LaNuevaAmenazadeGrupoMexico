@@ -1,5 +1,5 @@
 ---
-title: First Slide
+title: Slide 1
 video: https://player.vimeo.com/video/376939685
 ---
 
