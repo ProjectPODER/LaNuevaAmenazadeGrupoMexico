@@ -1,6 +1,6 @@
 ---
 title: Slide 7
-image: graphic-example6.png
+image: AbisabiGuevaraok.jpeg
 ---
 
 # "¿Están esperando a que nos salgamos de donde nacimos?"
