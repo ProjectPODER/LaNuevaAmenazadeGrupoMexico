@@ -3,7 +3,7 @@ title: Slide 6
 video: https://player.vimeo.com/video/376936142
 ---
 
-# THIS IS THE THIRD SLIDE
+# Plomo en el agua
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+“Estudiaban el agua de mi casa también. Las tomaban en botellas y se las llevaban a estudiar. Solo una vez nos dieron los resultados y debo dar las gracias al doctor que me los dio porque me llamó a ladito para dármelos. Dijo, ‘le salieron un nivel más alto que la norma en plomo, arsénico, alumino y cobre’. Me subrayaron plomo", explica Elda León, habitante de Banámichi, durante la primera reunión con Semarnat y Profepa el 22 de octubre de 2019.
 
