@@ -1,6 +1,6 @@
 ---
 title: Slide 5
-image: graphic-example4.png
+image: image3983.png
 ---
 
 # THIS IS THE THIRD SLIDE
