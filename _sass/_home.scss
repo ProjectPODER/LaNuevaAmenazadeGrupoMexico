@@ -123,15 +123,11 @@
 
     .legend-home1 {
         right: 0;
-        top: 390px;
+        top: 450px;
         width: 12%;
     }
-    
-    .legend-home2 {
-        display: none;
-    }
 
-    .legend-home3, .legend-home4 {
+    .legend-home2, .legend-home3, .legend-home4 {
         display: none;
     }
     
@@ -149,11 +145,7 @@
         }
     }
     .legend-home1 {
-        right: 3%;
         width: 20%;
-        top: 285px;
-    }
-    .legend-home2 {
-        display: none;
+        top: 540px;
     }
 }
