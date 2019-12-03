@@ -3,6 +3,6 @@ title: Slide 5
 image: image3983.png
 ---
 
-# THIS IS THE THIRD SLIDE
+# Sobreviviendo al daño
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+María del Carmen Padilla, habitante de Huépac, comentó a los representantes de Semarnat y Profepa que "tenemos que comprar el agua de 15 hasta 50 pesos. Si nosotros no podemos consumir el agua, el animal tampoco, porque nos lo vamos a comer. O sea, ¿qué hizo el derrame? Perjudicar. Nosotros ahora estamos sobreviviendo sobre el daño hecho".
