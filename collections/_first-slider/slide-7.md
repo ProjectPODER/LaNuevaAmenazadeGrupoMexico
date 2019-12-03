@@ -3,6 +3,6 @@ title: Slide 7
 image: graphic-example6.png
 ---
 
-# THIS IS THE THIRD SLIDE
+# "¿Están esperando a que nos salgamos de donde nacimos?"
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Las minas son como un monte que le pone fuego y dice que lo quiere apagar, pero por el otro está poniendo la leña ¿cómo va a apagar el monte? Jamás. Por eso tenemos que exigir a las autoridades, o ¿están esperando que haya una epidemia en el río sonora, hasta entonces se va a poner atención a las cosas o acaso están esperando que nos salgamos poco a poco de nuestros pueblos y dejemos nuestras casas, pertenencias y dónde hemos nacido?
