@@ -3,6 +3,6 @@ title: Slide 8
 video: https://player.vimeo.com/video/377106060
 ---
 
-# THIS IS THE THIRD SLIDE
+# El pozo clausurado en Sinoquipe
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Carmen Contreras relata cómo ella y otras mujeres de la comunidad de Sinoquipe, en Arizpe, lucharon en contra de las autoridades para que no se reabriera el pozo contaminado después del derrame de Grupo México en 2014. Incluso retaban a las personas de Conagua que intentaron reabrirlo a ser ellos los primeros en tomar un vaso de esa agua contaminada. 
