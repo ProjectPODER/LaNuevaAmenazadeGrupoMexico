@@ -1,8 +1,8 @@
 ---
 title: Slide 2
-image: graphic-example2.png
+video: https://player.vimeo.com/video/376939685
 ---
 
-# THIS IS THE SECOND SLIDE
+# Las mujeres en la lucha
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+"Las mujeres no han tenido problemas con el derrame? ¿cargan muy agusto los garrafones de agua?", pregunta la profesora Guadalupe Gamez, habitante de Aconchi, a las mujeres presentes en la reunión con Semarnat y Profepa en ese municipio el 24 de octubre. Afirma que las mujeres de Sonora ya no soportan el gasto "de estar llevando el agua como esclavas".

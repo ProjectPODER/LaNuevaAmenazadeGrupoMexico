@@ -1,9 +1,12 @@
 ---
-title: First Slide
-video: https://www.youtube.com/embed/q9y0Vb-8PJ0
-
+title: Slide 1
+image: banamichireunion.jpeg
 ---
 
 # Las voces por la justicia
 
-Desde el 22 de octubre y hasta el 29, servidores de las áreas de participación ciudadana de la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) y de la Procuraduría Federal para la Defensa del Ambiente (Profepa), sostuvieron reuniones con la gente afectada por el derrame de lixiviado de cobre de Grupo México hace cinco años en Sonora. Banámichi, Huépac, Arizpe, Aconchi, Baviácora, Ures y Hermosillo fueron las cedes de las reuniones. Estos son algunos testimonios de quienes exigen justicia.
+Del 22 al 29 de octubre de 2019, servidores públicos de las áreas de Participación Ciudadana de la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat) y de la Procuraduría Federal para la Defensa del Ambiente (Profepa), sostuvieron reuniones con la gente afectada por el derrame de lixiviado de cobre de Grupo México hace cinco años en Sonora en su mina Buenavista del Cobre.
+
+Banámichi, Huépac, Arizpe, Aconchi, Baviácora, Ures y Hermosillo fueron las cedes de las reuniones. Los representantes de Semarnat, José Luis Bravo y Víctor Larraguibe, y de la Profepa, Alicia Tamez y Miguel Sánchez, aseguraron tener órdenes de Víctor Toledo, secretario de Medio Ambiente y Recursos Naturales, de recopilar los malestares y necesidades de la población para hacer un diagnóstico de la situación y presentar posibles soluciones.
+
+Estos son algunos testimonios de quienes exigen justicia y un alto a la nueva presa de jales.
