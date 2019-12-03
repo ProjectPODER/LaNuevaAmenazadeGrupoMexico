@@ -1,6 +1,6 @@
 ---
 title: Slide 7
-image: graphic-example6.png
+video: https://player.vimeo.com/video/377106060
 ---
 
 # THIS IS THE THIRD SLIDE
