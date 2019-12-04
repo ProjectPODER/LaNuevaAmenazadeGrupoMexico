@@ -32,7 +32,7 @@ bods_url: ""
 
 graph:
   # The name of your graphic
-  - title: "47,000 mdp"
+  - title: "47,559,290,146.90 pesos"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
