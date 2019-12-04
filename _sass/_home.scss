@@ -41,14 +41,14 @@
 }
 
 .legend-home1 {
-    right: 3%;
-    top: 475px;
+    right: 1%;
+    top: 225px;
     width: 14%;
 }
 
 .legend-home2 {
-    left: 9%;
-    top: 320px;
+    left: 10%;
+    top: 250px;
     width: 10%;
 }
 
@@ -72,8 +72,8 @@
     }
     
     .legend-home2 {
-        left: 5%;
-        top: 290px;
+        left: 10%;
+        top: 285px;
     }
     
 }
@@ -86,8 +86,8 @@
     }
     
     .legend-home2 {
-        left: 0;
-        top: 260px;
+        left: 3%;
+        top: 255px;
     }
     
 }
@@ -105,6 +105,9 @@
             font-size: 50px;
             line-height: 55px;
         }
+    }
+    .legend-home2 {
+        display: none;
     }
 }
 
