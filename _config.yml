@@ -16,7 +16,7 @@
 title: "La nueva amenaza de Grupo México para el Río Sonora"
 
 # Logo image
-image: logo-final-v1.png
+logo: logo-final-v1.png
 
 #Description of your site
 description: >-
@@ -117,3 +117,7 @@ collections:
 # Set to false to hide excerpts on the posts page
 show_excerpts: true
 future: true
+
+# SEO
+tagline: La megapresa de jales de Buenavista del Cobre, de Germán Larrea, se levanta como una nueva amenaza hacia la población de los 7 municipios de Sonora.
+image: /assets/img/facebookcard-sonora.png
