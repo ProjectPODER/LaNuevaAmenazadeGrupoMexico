@@ -3,6 +3,8 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# THIS IS THE FIRST SLIDE
+# Proveedores de Grupo Mexico y contratistas del gobierno
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+42 de las 52 empresas contratadas por la minera para llevar a cabo su plan de expansión “Gran Visión” en la mina Buenavista del Cobre, y del cual la nueva presa de jales es pieza central, han ganado más de 47 mil millones de pesos en 1,327 contratos con el gobierno desde 2009. Es decir, cinco años antes del derrame de 40 mil metros cúbicos de lixiviado de cobre en la mina de Sonora y cinco años después del mismo. 
+
+Germán Larrea es el cliente incómodo que hoy pone a sus proveedoras bajo el reflector.
