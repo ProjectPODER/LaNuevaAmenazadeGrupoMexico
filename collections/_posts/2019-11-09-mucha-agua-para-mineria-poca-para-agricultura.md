@@ -33,7 +33,7 @@ Aconchi cayó 5.8% en su valor de producción, Arizpe 51.9% y Baviacora 19.30%. 
 
 A la desorganización en la gestión del agua en Sonora, se suma la sola presencia de las mineras, el derrame de 2014 que contaminó el agua del río, y ahora la construcción de un embalse de más de 6 mil hectáreas en la nueva presa de jales, afecta desde ya la continuidad del sistema hidrológico. La megapresa “pondrá en estado de vulnerabilidad de contaminación al acuífero”, según el informe de PODER sobre el Proyecto Nueva Presa de Jales, publicado en 2019.
 
-Lee más de la nueva presa de jales
+*[Lee más de la nueva presa de jales]({{ site.baseurl }}/)*
 
 En la carretera que comunica a los municipios afectados por el derrame y que sigue el camino del Río Sonora desde Bacanuchi hasta Hermosillo, además de montañas verdes y cafés que contrastan con el asfalto del camino, es común ver caravanas de camionetas que resguardan a otros vehículos de carga con maquinaria para perforar pozos de agua.
 
