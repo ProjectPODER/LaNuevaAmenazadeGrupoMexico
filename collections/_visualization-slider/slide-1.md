@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualization-example.png
+image: slide1.png
 ---
 
 # Contratadas por GMéxico y gobierno
