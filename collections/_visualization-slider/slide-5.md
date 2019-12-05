@@ -1,6 +1,6 @@
 ---
 title: Slide 5
-image: visualization-example.png
+image: slide5.png
 ---
 
 # Los verdaderos ganadores
