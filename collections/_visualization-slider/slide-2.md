@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: slide2.png
 ---
 
 # Procesos de contratación
