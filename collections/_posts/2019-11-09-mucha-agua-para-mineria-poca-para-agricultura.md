@@ -25,9 +25,9 @@ Existen los decretos presidenciales en los que se da prórroga para que las Unid
 
 Las dificultades para renovar los permisos de agua para las Unidades de Riego repercuten en la siembra y producción de las mismas. Contreras menciona que, por ejemplo, en Aconchi hay 8 Unidades de Riego, todas con problemas, pero especialmente una con 100 hectáreas donde no se siembre nada desde hace tres años. 
 
-El derrame de 40 millones de litros de sulfato de lixiviado de cobre en la mina Buenavista del Cobre en 2014 hizo estragos en el ciclo de siembra otroño-invierno en las Unidades de Riego de tres de los cinco municipios afectados por el derrame, donde su producción redujo su valor en comparación con el siguiente año en el mismo ciclo, según las Estadísticas Agrícolas de las Unidades de Riego1 de Conagua.
+El derrame de 40 millones de litros de sulfato de lixiviado de cobre en la mina Buenavista del Cobre en 2014 hizo estragos en el ciclo de siembra otroño-invierno en las Unidades de Riego de tres de los cinco municipios afectados por el derrame, donde su producción redujo su valor en comparación con el siguiente año en el mismo ciclo, según las Estadísticas Agrícolas de las Unidades de Riego [^nota1] de Conagua.
 
-Aconchi cayó 5.8% en su valor de producción, Arizpe 51.9% y Baviacora 19.30%. Sólo Banamichi y Ures registraron un aumento en el valor de su producción. No hay datos para el ciclo 2014-2015 para los municipios de Huépac y San Felipe de Jesús2, los otros dos afectados por el derrame.
+Aconchi cayó 5.8% en su valor de producción, Arizpe 51.9% y Baviacora 19.30%. Sólo Banamichi y Ures registraron un aumento en el valor de su producción. No hay datos para el ciclo 2014-2015 para los municipios de Huépac y San Felipe de Jesús [^nota2], los otros dos afectados por el derrame.
 
 ## Beneficios para las minas
 
@@ -55,15 +55,15 @@ Pero a través del Registro Público de Derechos de Agua (REDPA), se observa có
 
 Grupo México tenía hasta este año 5 concesiones en la Cuenca del Río Sonora, lo que equivale a 23.8 millones de metros cúbicos por año, mientras que la recarga total media anual de la cuenca es de 66.6 millones de metros cúbicos. Es decir, el 35.8% de lo que cada año se almacena de agua en el acuífero, está en manos de una minera privada. Esta cifra, proveniente del registro público de derechos de agua de la Conagua, contradice a la propia Conagua en su estudio de 2015, donde afirma que tan sólo 0.81% del volumen de la cuenca se destina a uso industrial.
 
-En contraste, desde 2014 hasta 2019 Conagua ha dado 49 concesiones por 369,670.4 metros cúbicos de aguas subterráneas proveniente de la Cuenca Río Sonora anualmente a personas físicas y ejidos, para “diferentes usos, uso pecuario, agrícola y doméstico” a personas físicas y ejidos, por , de acuerdo con bases de datos de Conagua facilitadas por la organización Agua para Tod@s3.
+En contraste, desde 2014 hasta 2019 Conagua ha dado 49 concesiones por 369,670.4 metros cúbicos de aguas subterráneas proveniente de la Cuenca Río Sonora anualmente a personas físicas y ejidos, para “diferentes usos, uso pecuario, agrícola y doméstico” a personas físicas y ejidos, por , de acuerdo con bases de datos de Conagua facilitadas por la organización Agua para Tod@s [^nota3].
 
-Tal como está el conteo, con incoherencias en los números de concesiones y volumen de agua en manos de las empresas privadas, es imposible saber si el agua usada por la minera está siendo contabilizada en el reordenamiento del agua, anunciado por la Conagua y entregado al Gobierno de Sonora en 2018, o si sólo se pretender ordenar el agua que usan las comunidades4. 
+Tal como está el conteo, con incoherencias en los números de concesiones y volumen de agua en manos de las empresas privadas, es imposible saber si el agua usada por la minera está siendo contabilizada en el reordenamiento del agua, anunciado por la Conagua y entregado al Gobierno de Sonora en 2018, o si sólo se pretender ordenar el agua que usan las comunidades [^nota4]. 
 
 ## La Zona Económica Especial Río Sonora
 
-Por otro lado, pero también relacionado con la presión sobre la Cuenca del Río Sonora, está la iniciativa de la Zona Económica Especial Río Sonora (ZEERS), que plantea facilidades fiscales y de permisos para usar recursos naturales para promover inversiones privadas. Durante su primer año de gobierno, el presidente Andrés Manuel López Obrador para dar prioridad al Tren Maya, uno de los proyectos que ha colocado como insignia en su administración, canceló seis ZEE de competencia federal, pero no la de Sonora, al ser esta local5. 
+Por otro lado, pero también relacionado con la presión sobre la Cuenca del Río Sonora, está la iniciativa de la Zona Económica Especial Río Sonora (ZEERS), que plantea facilidades fiscales y de permisos para usar recursos naturales para promover inversiones privadas. Durante su primer año de gobierno, el presidente Andrés Manuel López Obrador para dar prioridad al Tren Maya, uno de los proyectos que ha colocado como insignia en su administración, canceló seis ZEE de competencia federal, pero no la de Sonora, al ser esta local [^nota5]. 
 
-Un mes y medio antes de que iniciaran las reuniones entre representantes de la Semarnat y de Profepa en 6 municipios de Sonora afectados por el derrame, se aprobó el Proyecto Hídrico del Gobierno de Sonora para la ZEERS6, que contempla 24 obras de infraestructura hídrica. 
+Un mes y medio antes de que iniciaran las reuniones entre representantes de la Semarnat y de Profepa en 6 municipios de Sonora afectados por el derrame, se aprobó el Proyecto Hídrico del Gobierno de Sonora para la ZEERS [^nota6], que contempla 24 obras de infraestructura hídrica. 
 
 Las Zonas Económicas Especiales también tiene un impacto en el acceso al agua, pues para atraer a empresas de diferentes industrias, como la minería, ofrecen más facilidades para obtener concesiones de agua para uso industrial, incluso quitando vedas a zonas donde el agua era intocable, según han denunciado organizaciones de la sociedad civil. En ese mismo mes, septiembre de 2019, el Gobierno de Sonora se congratuló por lograr la visita del subsecretario de Minería de México, Francisco Quiroga, a la Unidad Minera Santa Elena y al Proyecto Las Chispas, de First Majestic y a municipios pertenecientes a la Zona Económica Especial del Río Sonora. 
 
@@ -71,6 +71,15 @@ Sin embargo, la realidad para los habitantes de esos municipios no es la misma q
 
 Un día antes de iniciar las reuniones, el 21 de octubre, se celebró la III Reunión Intersecretarial de la ZEERS entre dependencias estatales. Una parte de la reunión ocurrió a puerta cerrada y en otra se invitó a investigadores, pero no a pobladores, a pesar de que algunos de ellos se apersonaron en las oficinas para que les dejaran pasar. 
 
-La que sí estuvo invitada fue Irma Portes, directora de Desarrollo Comunitario de Grupo México. Ahí presumió que la empresa ha invertido 3.2 millones de pesos en 12 proyectos productivos en la zona, incluidas inversiones en temas de salud para los pobladores del Río Sonora7. La empleada de Germán Larrea no mencionó que menos de un mes después, la empresa cedería a la Guardia Nacional la Unidad de Vigilancia Epidemiológica y Ambiental de Sonora (UVEAS), abierta como respuesta al derrame de hace cinco años para supuestamente atender a la gente afectada en su salud8.
+La que sí estuvo invitada fue Irma Portes, directora de Desarrollo Comunitario de Grupo México. Ahí presumió que la empresa ha invertido 3.2 millones de pesos en 12 proyectos productivos en la zona, incluidas inversiones en temas de salud para los pobladores del Río Sonora [^nota7]. La empleada de Germán Larrea no mencionó que menos de un mes después, la empresa cedería a la Guardia Nacional la Unidad de Vigilancia Epidemiológica y Ambiental de Sonora (UVEAS), abierta como respuesta al derrame de hace cinco años para supuestamente atender a la gente afectada en su salud [^nota8].
 
 Los servidores de Semarnat y Profepa mantuvieron el discurso en todos los encuentros con las comunidades: “venimos a escuchar, no podemos emitir decisiones, pero en cuanto se tengan los resultados de estas reuniones, se van a enterar de los mismos. Todavía no sabemos de qué forma, pero se enterarán”. 
+
+[^nota1]: https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/SGIH-4-17.pdf
+[^nota2]: https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/EAUR2014-2015.pdf 
+[^nota3]: http://datos.aguaparatodos.org.mx/concesiones/ 
+[^nota4]: https://www.gob.mx/cms/uploads/attachment/file/297584/OCNO_07022018_Entrega_Conagua_al_Gobierno_del_Estado_el_Estudio_de_Reordenamiento_de_la_Cuenca_del_R_o_Sonora.pdf 
+[^nota5]: https://www.dof.gob.mx/nota_detalle.php?codigo=5579365&fecha=19/11/2019&print=true
+[^nota6]: https://www.sonora.gob.mx/noticias/6339-aprueban-proyecto-h%C3%ADdrico-para-zona-econ%C3%B3mica-especial-del-r%C3%ADo-sonora.html 
+[^nota7]: https://www.elsoldehermosillo.com.mx/local/celebran-reunion-de-la-zona-economica-especial-del-rio-sonora-4347305.html 
+[^nota8]: https://www.proceso.com.mx/606393/grupo-mexico-cede-a-la-guardia-nacional-edificio-para-victimas-de-derrame-en-sonora 
