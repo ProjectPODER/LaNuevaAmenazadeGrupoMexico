@@ -14,6 +14,8 @@ La preocupación principal de la gente es clara, la falta de acceso al agua limp
 
 El Proyecto Nueva Presa de Jales para Buenavista del Cobre, es la pieza clave en el proyecto de expansión “Gran Visión”, de Grupo México, y se suma a los demás factores que ya ponen presión al acceso al agua de la Cuenca del Río Sonora: concesiones de agua para proyectos mineros pero obstáculos para los pobladores que quieren renovar sus permisos, así como la contaminación del agua provocada por Buenavista del Cobre hace cinco años.
 
+![Actividades de Grupo México en Arizpe. Crédito: Claudia Ocaranza]({{ site.baseurl }}/assets/img/actividadesgrupomexico.jpg)
+
 ## La radiografía de la megapresa 
 
 “Se alcanza a ver desde el camino, es un muro grandísimo. Es algo inmenso, sólo se ve una parte, pero ha de estar gigante por dentro”, dice Gloria Simpson, habitante de Bacanuchi, a PODER. Se refiere a la cortina contenedora de la presa de jales, que una vez terminada medirá 175 metros de alto y 10 kilómetros de largo. Ya actualmente la cortina contenedora por arriba tiene 20 metros de ancho, que son usados como camino para los vehículos de Grupo México y sus proveedores contratados para la construcción de la presa.
@@ -24,7 +26,7 @@ Sólo 27 kilómetros, casi lo mismo que recorren en par de horas quienes hacen e
 
 El miedo de la gente es que un derrame proveniente de la nueva presa de jales podría arrasar con todo el pueblo de Bacanuchi y sus habitantes, y afectaría de forma directa a más de un millón de personas, incluidas aquellas que viven en los siete municipios que usan el río como forma de vida.
 
-![Presa de jales]({{ site.baseurl }}/assets/img/infografia-presadejales-6.png)
+![Presa de jales. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/infografia-presadejales-6.png)
 
 Lejos queda la idea de comunidad que quiere generar Grupo México con sus eventos después del amparo ganado por Bacanuchi en 2018. El reclamo era que la empresa había iniciado en 2013, y con un Informe Preventivo aprobado por las autoridades, las obras de la presa de jales sin consultar a las comunidades. La Suprema Corte de Justicia de la Nación ordenó a Buenavista del Cobre a informar sobre los aspectos técnicos de la presa. 
 
@@ -40,7 +42,7 @@ En un inicio tampoco se explicó a profundidad cómo resolvería emergencias der
 
 Así que actualmente se pueden ver pequeñas bardas construidas a 2 kilómetros de la cortina contenedora, que supuestamente detendrían un derrame. Sin embargo, estas bardas no parecen tener proporción con la cantidad de desechos que la presa es capaz de contener y que podrían liberarse en un accidente. La empresa aceptó en su Informe Preventivo que existe “un riesgo para el sitio del proyecto que podrá afectar las aguas subterráneas del acuífero de Bacanuchi con las aguas contaminadas de jal”.
 
-[FOTO DEL MURO PEQUEÑO]
+![Barda contendedora. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/Muro-contencion.jpg)
 
 Sobre la NOM-141-SEMARNAT-2003, la empresa señala en su informe que la cortina contenedora siguió los lineamientos de la misma y que realizó un estudio de estabilidad para probarlo. Pero no ha hecho público ese estudio, ni lo anexó en su Informe Preventivo, por lo que es imposible conocer si la cortina cumple con los requisitos de seguridad sin desglosarlos ni comprobarlos.
 
@@ -56,7 +58,7 @@ Los proveedores o subcontratistas de Buenavista del Cobre suman a 52. Aunque no 
 
 Desde 2009, cinco años antes del derrame de lixiviado de cobre, que es el mayor derrame en la industria minera en México, hasta la fecha, el gobierno de México erogó a esas 42 subcontratistas de Grupo México más de 47 mil millones de pesos a través de 1,327 contratos, de los cuales 482 fueron dados en adjudicación directa. Sólo 10 de esas firmas, como ICA Flour Daniel, Siemens y Grupo Construcciones Planificadasson las involucradas en la construcción de la Concentradora de Cobre II, pero suman más de 41 mil millones de pesos por 829 contratos.
 
-Y aunque sí existió una sanción por el derrame de 2014 de lixiviado de cobre por 23,565,938 pesos de multa por 50 irregularidades, además de los 2 mil millones de pesos para el Fideicomiso Río Sonora2 (cancelado por la empresa de forma unilateral), las empresas detrás de la expansión de Buenavista del Cobre podrían haber pagado la sanción 28 veces sólo con sus activos provenientes de los otros contratos con el gobierno en los últimos 10 años.
+Y aunque sí existió una sanción por el derrame de 2014 de lixiviado de cobre por 23,565,938 pesos de multa por 50 irregularidades, además de los 2 mil millones de pesos para el Fideicomiso Río Sonora [^nota2] (cancelado por la empresa de forma unilateral), las empresas detrás de la expansión de Buenavista del Cobre podrían haber pagado la sanción 28 veces sólo con sus activos provenientes de los otros contratos con el gobierno en los últimos 10 años.
 
 *[Descrubre a las contratistas de Grupo México]({{ site.baseurl }}/ellos-construyen-la-presa)*
 
@@ -76,3 +78,4 @@ PODER solicitó entrevista con Benjamín Berlanga, Titular de la Unidad de Trans
 
 
 [^nota1]: https://www.projectpoder.org/wp-content/uploads/2019/07/informe-de-observaciones-IP-Nueva-Presa-de-Jales-Version-Final2.pdf 
+[^nota2]: https://expansion.mx/negocios/2015/03/20/grupo-mexico-paga-multa-de-235-mdp-por-derrame-en-sonora 
