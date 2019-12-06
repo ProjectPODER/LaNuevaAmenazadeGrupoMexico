@@ -15,8 +15,7 @@ La preocupación principal de la gente es clara, la falta de acceso al agua limp
 
 El Proyecto Nueva Presa de Jales para Buenavista del Cobre, es la pieza clave en el proyecto de expansión “Gran Visión”, de Grupo México, y se suma a los demás factores que ya ponen presión al acceso al agua de la Cuenca del Río Sonora: concesiones de agua para proyectos mineros pero obstáculos para los pobladores que quieren renovar sus permisos, así como la contaminación del agua provocada por Buenavista del Cobre hace cinco años.
 
-{:.image-post}
-![Actividades de Grupo México en Arizpe. Crédito: Claudia Ocaranza]({{ site.baseurl }}/assets/img/actividadesgrupomexico.jpg)
+
 
 ## La radiografía de la megapresa 
 
