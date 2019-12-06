@@ -45,7 +45,7 @@ En un inicio tampoco se explicó a profundidad cómo resolvería emergencias der
 Así que actualmente se pueden ver pequeñas bardas construidas a 2 kilómetros de la cortina contenedora, que supuestamente detendrían un derrame. Sin embargo, estas bardas no parecen tener proporción con la cantidad de desechos que la presa es capaz de contener y que podrían liberarse en un accidente. La empresa aceptó en su Informe Preventivo que existe “un riesgo para el sitio del proyecto que podrá afectar las aguas subterráneas del acuífero de Bacanuchi con las aguas contaminadas de jal”.
 
 {:.image-post}
-![Barda contendedora. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/Muro-contencion.jpg)
+![Barda contendedora. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/Muro-contencion.JPG)
 
 Sobre la NOM-141-SEMARNAT-2003, la empresa señala en su informe que la cortina contenedora siguió los lineamientos de la misma y que realizó un estudio de estabilidad para probarlo. Pero no ha hecho público ese estudio, ni lo anexó en su Informe Preventivo, por lo que es imposible conocer si la cortina cumple con los requisitos de seguridad sin desglosarlos ni comprobarlos.
 
