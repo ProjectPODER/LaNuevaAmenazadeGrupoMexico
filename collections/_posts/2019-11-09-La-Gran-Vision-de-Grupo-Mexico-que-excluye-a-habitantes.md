@@ -7,7 +7,7 @@ order: 1
 ---
 “¡Lo puso Grupo México!”, grita un niño a la pregunta de quién puso un cine en la plaza principal de Huépac, en Sonora. El niño, de unos 4 años, quizá no sepa que esa misma empresa que hoy le da diversión, afecta desde hace muchos años su vida y la de su familia y vecinos, debido a la contaminación ambiental. Sus amigos mayores parecen saberlo y mientras le dicen que se calle, él señala a dos mujeres y asegura que ellas son las trabajadoras que montaron una pantalla y un proyector para que pudieran ver Toy Story 4. Ellas, con la intención de huir, tímidamente aceptan que sí, son parte del departamento de desarrollo social de la minera propiedad de Germán Larrea, el segundo hombre más rico de México. Las empleadas de Grupo México prometen que se pondrán en contacto para agendar una entrevista, cosa que hasta el cierre de este reportaje, no sucedió. 
 
-FOTO NIÑOS
+FOTO NIÑOS/ ACCIONES GRUPO MEXICO
 
 Hay muchas actividades estos días de octubre: talleres para emprendedores, cine club, presentación de espectáculos musicales y rodadas en bici, organizadas por Grupo México de la mano de los Ayuntamientos que suceden al mismo tiempo que cuatro servidores públicos de las áreas de Participación Ciudadana de la Secretaría del Medio Ambiente y Recursos Naturales (Semarnat) y la Procuraduría Federal de Protección al Medio Ambiente (Profepa), recorren siete municipios de Sonora para escuchar a las personas afectadas por el derrame de 40 mil metros cúbicos de lixiviado de cobre de la mina Buenavista del Cobre, de Grupo México, de agosto de 2014.
 
@@ -15,7 +15,9 @@ La preocupación principal de la gente es clara, la falta de acceso al agua limp
 
 El Proyecto Nueva Presa de Jales para Buenavista del Cobre, es la pieza clave en el proyecto de expansión “Gran Visión”, de Grupo México, y se suma a los demás factores que ya ponen presión al acceso al agua de la Cuenca del Río Sonora: concesiones de agua para proyectos mineros pero obstáculos para los pobladores que quieren renovar sus permisos, así como la contaminación del agua provocada por Buenavista del Cobre hace cinco años.
 
+En el mapa se puede observar cómo ha crecido la mina de Cananea de Grupo México. Desde 2012 el crecimiento es más acelerado. En 2013 aparece la nueva presa de jales en la parte inferior del mapa y se observa su crecimiento hasta 2018.
 
+[EMBEBER LINEA DE TIEMPO MAPA GOOGLE]
 
 ## La radiografía de la megapresa 
 
