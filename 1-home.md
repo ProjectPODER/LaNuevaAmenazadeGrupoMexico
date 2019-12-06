@@ -10,8 +10,8 @@ Con una capacidad de almacenamiento de 2,040 millones de metros cúbicos de dese
 
 
 [Ellos construyen la presa]({{ site.baseurl }}/ellos-construyen-la-presa)
-[Las historias detrás del río]({{ site.baseurl }}/las-historias-detras-del-rio)
+[Las historias del río]({{ site.baseurl }}/las-historias-del-rio)
 [Los rostros del derrame]({{ site.baseurl }}/los-rostros-del-derrame)
 
 {:.info-link}
-[Ver la infografía completa]({{ site.baseurl }}/2018/11/27/welcome#infografia)
+[Ver la infografía completa]({{ site.baseurl }}/2019/11/09/La-Gran-Vision-de-Grupo-Mexico-que-excluye-a-habitantes.html#infografia)

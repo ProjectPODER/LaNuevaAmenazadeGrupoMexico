@@ -1,7 +1,6 @@
 ---
 layout: posts
-title: Historias
-permalink: /las-historias-detras-del-rio/
+permalink: /las-historias-del-rio/
 ---
 
-# Las historias detrás del río
+<!-- # Las historias detrás del río -->
