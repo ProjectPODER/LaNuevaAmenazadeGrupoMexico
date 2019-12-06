@@ -8,14 +8,14 @@ layout: default
       <div class="col-lg-12 mb-4">
         {{content}}
       </div>
-      {%- if site.posts.size > 0 -%}
-      {%- for post in site.posts reversed -%}
+      {%- assign posts = site.posts | sort: 'order' -%}
+      {%- if posts.size > 0 -%}
+      {%- for post in posts -%}
       <div class="col-lg-12">
         <div class="card bg-light mb-3">
           <div class="card-body">
             <div class="col-lg-4">
               <div class="posts-img" style="background-image: url('{{site.baseurl}}/assets/img/{{post.image}}');"></div>
-              <!-- <img src="{{ site.baseurl }}/assets/img/{{post.image}}" class="img-fluid"> -->
             </div>
             <div class="col-lg-8">
               <div class="header-card d-flex align-items-first">
@@ -47,4 +47,3 @@ layout: default
     </div>
   </div>
 </section>
-

@@ -3,6 +3,7 @@ layout: post
 title: La Gran Visión de Grupo México que excluye a habitantes
 author: "Claudia Ocaranza"
 image: graphic-example1.png
+order: 1
 ---
 “¡Lo puso Grupo México!”, grita un niño a la pregunta de quién puso un cine en la plaza principal de Huépac, en Sonora. El niño, de unos 4 años, quizá no sepa que esa misma empresa que hoy le da diversión, afecta desde hace muchos años su vida y la de su familia y vecinos, debido a la contaminación ambiental. Sus amigos mayores parecen saberlo y mientras le dicen que se calle, él señala a dos mujeres y asegura que ellas son las trabajadoras que montaron una pantalla y un proyector para que pudieran ver Toy Story 4. Ellas, con la intención de huir, tímidamente aceptan que sí, son parte del departamento de desarrollo social de la minera propiedad de Germán Larrea, el segundo hombre más rico de México. Las empleadas de Grupo México prometen que se pondrán en contacto para agendar una entrevista, cosa que hasta el cierre de este reportaje, no sucedió. 
 

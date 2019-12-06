@@ -3,6 +3,7 @@ layout: post
 title: Mucha agua para minería, poca para agricultura
 author: "Claudia Ocaranza"
 image: graphic-example1.png
+order: 2
 ---
 
 “Pareciera que las aguas del río están concesionadas a la mina”, denuncia Pedro Luna Martiñón, habitante de Aconchi, ante autoridades de Semarnat y Profepa. La queja refleja no sólo el hecho de que cada vez más la empresa tiene ventaja en el uso del agua sobre las comunidades, sino, cómo la desorganización en la gestión impacta en la vida de las personas en torno al acceso, hace más difícil la vigilancia en de su uso por parte de grandes empresas y la exigencia de rendición de cuentas.
