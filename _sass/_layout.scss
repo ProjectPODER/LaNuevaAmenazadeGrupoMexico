@@ -23,7 +23,8 @@ blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
 }
 
 a {
-	transition: all .35s;
+    transition: all .35s;
+    word-wrap: break-word;
 }
 
 .bg-general {
@@ -39,6 +40,9 @@ img {
     height: auto;
 }
 
+.footnotes {
+    word-wrap: break-word;
+}
 @media (max-width: 767px) {
     h1, .h1 {
         font-size: 2rem;
