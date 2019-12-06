@@ -17,9 +17,11 @@ El Proyecto Nueva Presa de Jales para Buenavista del Cobre, es la pieza clave en
 
 En el mapa se puede observar cómo ha crecido la mina de Cananea de Grupo México. Desde 2012 el crecimiento es más acelerado. En 2013 aparece la nueva presa de jales en la parte inferior del mapa y se observa su crecimiento hasta 2018.
 
-<div class="embed-responsive embed-responsive-16by9 ">
+<div class="embed-responsive embed-responsive-16by9 mb-4">
   <iframe class="embed-responsive-item" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=30.95743,-110.29345,9.736,latLng&t=3.43&ps=50&bt=19840101&et=20181231&startDwell=0&endDwell=0" allowfullscreen></iframe>
 </div>
+
+<iframe width="1080" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=30.95743,-110.29345,9.736,latLng&t=3.43&ps=50&bt=19840101&et=20181231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
 
 
 ## La radiografía de la megapresa 
