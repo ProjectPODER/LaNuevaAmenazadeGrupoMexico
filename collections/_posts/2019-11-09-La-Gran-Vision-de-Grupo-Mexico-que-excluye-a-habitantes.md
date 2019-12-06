@@ -14,6 +14,7 @@ La preocupación principal de la gente es clara, la falta de acceso al agua limp
 
 El Proyecto Nueva Presa de Jales para Buenavista del Cobre, es la pieza clave en el proyecto de expansión “Gran Visión”, de Grupo México, y se suma a los demás factores que ya ponen presión al acceso al agua de la Cuenca del Río Sonora: concesiones de agua para proyectos mineros pero obstáculos para los pobladores que quieren renovar sus permisos, así como la contaminación del agua provocada por Buenavista del Cobre hace cinco años.
 
+{:.image-post}
 ![Actividades de Grupo México en Arizpe. Crédito: Claudia Ocaranza]({{ site.baseurl }}/assets/img/actividadesgrupomexico.jpg)
 
 ## La radiografía de la megapresa 
@@ -26,6 +27,7 @@ Sólo 27 kilómetros, casi lo mismo que recorren en par de horas quienes hacen e
 
 El miedo de la gente es que un derrame proveniente de la nueva presa de jales podría arrasar con todo el pueblo de Bacanuchi y sus habitantes, y afectaría de forma directa a más de un millón de personas, incluidas aquellas que viven en los siete municipios que usan el río como forma de vida.
 
+{:.image-post #infografia}
 ![Presa de jales. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/infografia-presadejales-6.png)
 
 Lejos queda la idea de comunidad que quiere generar Grupo México con sus eventos después del amparo ganado por Bacanuchi en 2018. El reclamo era que la empresa había iniciado en 2013, y con un Informe Preventivo aprobado por las autoridades, las obras de la presa de jales sin consultar a las comunidades. La Suprema Corte de Justicia de la Nación ordenó a Buenavista del Cobre a informar sobre los aspectos técnicos de la presa. 
@@ -42,6 +44,7 @@ En un inicio tampoco se explicó a profundidad cómo resolvería emergencias der
 
 Así que actualmente se pueden ver pequeñas bardas construidas a 2 kilómetros de la cortina contenedora, que supuestamente detendrían un derrame. Sin embargo, estas bardas no parecen tener proporción con la cantidad de desechos que la presa es capaz de contener y que podrían liberarse en un accidente. La empresa aceptó en su Informe Preventivo que existe “un riesgo para el sitio del proyecto que podrá afectar las aguas subterráneas del acuífero de Bacanuchi con las aguas contaminadas de jal”.
 
+{:.image-post}
 ![Barda contendedora. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/Muro-contencion.jpg)
 
 Sobre la NOM-141-SEMARNAT-2003, la empresa señala en su informe que la cortina contenedora siguió los lineamientos de la misma y que realizó un estudio de estabilidad para probarlo. Pero no ha hecho público ese estudio, ni lo anexó en su Informe Preventivo, por lo que es imposible conocer si la cortina cumple con los requisitos de seguridad sin desglosarlos ni comprobarlos.

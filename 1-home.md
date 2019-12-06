@@ -14,4 +14,4 @@ Con una capacidad de almacenamiento de 2,040 millones de metros cúbicos de dese
 [Los rostros del derrame]({{ site.baseurl }}/los-rostros-del-derrame)
 
 {:.info-link}
-[Ver la infografía completa]({{ site.baseurl }}/2018/11/27/welcome/#infografia)
+[Ver la infografía completa]({{ site.baseurl }}/2018/11/27/welcome#infografia)

@@ -43,8 +43,10 @@ Pero el destino de las camionetas con perforadoras de pozos es alguna de las min
 
 “Lo que más se mira son las perforaciones de los pozos de agua. Sabemos (los pobladores de Bacanuchi) que son pozos de la mina. Donde empiezan a trabajar hacen pruebas y dejan agua tirada”, explica a PODER Gloria Simpson, habitante de Bacanuchi, afectada por el derrame y ahora por la nueva presa de jales de Grupo México.
 
+{:.image-post}
 ![Perforadoras de pozos en la carretera. Crédito: Claudia Ocaranza]({{ site.baseurl }}/assets/img/perforadorapozos.jpg) 
 
+{:.image-post}
 ![Perforadoras de pozos en la carretera. Crédito: Claudia Ocaranza]({{ site.baseurl }}/assets/img/perforadorapozos2.jpg) 
 
 Las consecuencias de la presencia de agua contaminada y su consumo después del derrame de Grupo México, como el gasto en comprar garrafones, el cansancio de cargarlos para transportarlos, y los problemas de salud y producción agrícola fueron las mayores quejas de los habitantes que asistieron a las reuniones con Semarnat y Profepa. Sin embargo, como si el agua no fuera un elemento que conecta y afecta cada aspecto de la vida de las personas especialmente para las comunidades del Río Sonora que han vivido y cuidado del río durante décadas, los servidores de las áreas de participación ciudadana de Semarnat y Profepa más de una vez les aclararon que “sólo venimos por lo ambiental”. No hubo representantes de la Comisión Nacional del Agua (Conagua) en las reuniones.
