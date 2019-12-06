@@ -36,7 +36,7 @@ Lejos queda la idea de comunidad que quiere generar Grupo México con sus evento
 
 Además el 5 de julio de 2019 la Semarnat tuvo una reunión en Bacanuchi para recoger las preocupaciones de las comunidades sobre la nueva presa de jales y se comprometió a que la Profepa haría una inspección en la presa de jales para verificar que Grupo México estuviera cumpliendo con las medidas de prevención y mitigación. Los resultados debieron llegar en septiembre, según su compromiso. Pero han pasado más de dos meses desde esa promesa y las autoridades no han devuelto las conclusiones de la inspección.
 
-# Las irregularidades
+## Las irregularidades
 
 Del análisis del Informe Preventivo se desprende que Buenavista del Cobre no cumplió con requisitos estipulados en el Reglamento de la Ley General de Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación de Impacto Ambiental. No identificó ni estimó adecuadamente las emisiones, descargas y residuos, así como medidas de control. No describió todas las posibles sustancias generadas producto de las operación de la mina y que serán llevadas a la presa de jales. 
 
@@ -53,7 +53,7 @@ Sobre la NOM-141-SEMARNAT-2003, la empresa señala en su informe que la cortina 
 
 Profepa informó el pasado 9 de septiembre que del 19 al 23 de agosto realizó una inspección de la megapresa de jales. Todavía no se conocen los resultados de la misma.
 
-# Quiénes construyen la presa
+## Quiénes construyen la presa
 
 El Proyecto Nueva Presa de Jales forma parte de la planta Concentradora de Cobre II, que a su vez es parte del plan de expansión de Grupo México, llamado Gran Visión y que se proyecta que dure hasta 2055. La expansión también incluye el sistema de bandas Quebalix IV, una planta ESDE III, un patio de lixiviación llamado Tinajas, la construcción de 3 represos (Tinajas 1, Tinajas 2 y Álamos) y un área de Tepetate llamada Tinajas (terreros de desecho de cobre menor a .25%), según documentó PODER en 2015. 
 
@@ -67,7 +67,7 @@ Y aunque sí existió una sanción por el derrame de 2014 de lixiviado de cobre 
 
 *[Descrubre a las contratistas de Grupo México]({{ site.baseurl }}/ellos-construyen-la-presa)*
 
-# Desconfianza justificada
+## Desconfianza justificada
 
 Los habitantes no quieren la nueva presa de jales, así lo expresaron a los representantes de Semarnat y Profepa durante las reuniones. Después de que en cinco años desde el derrame no han recibido la remediación prometida y merecida, no tienen ninguna razón para confiar en las nuevas promesas de la administración de Andrés Manuel López Obrador ni en las de Grupo México; sin embargo, asisten a cada reunión para expresar su malestar. 
 
