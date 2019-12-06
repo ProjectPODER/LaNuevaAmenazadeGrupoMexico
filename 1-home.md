@@ -10,7 +10,7 @@ Con una capacidad de almacenamiento de 2,040 millones de metros cúbicos de dese
 
 
 [Ellos construyen la presa]({{ site.baseurl }}/ellos-construyen-la-presa)
-[Las historias detrás de la presa]({{ site.baseurl }}/las-historias-detras-de-la-presa)
+[Las historias detrás del río]({{ site.baseurl }}/las-historias-detras-del-rio)
 [Los rostros del derrame]({{ site.baseurl }}/los-rostros-del-derrame)
 
 {:.info-link}
