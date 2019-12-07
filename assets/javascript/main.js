@@ -75,3 +75,16 @@ $(document).ready(function () {
 
 
 });
+
+// //Anchors animation
+// $('a.page-scroll').bind('click', function(event) {
+//     var $anchor = $(this);
+//     let element = $($anchor.attr('href').replace(" ","\ "));
+//     if (element.length > 0) {
+//       let dest = (element.offset().top - 240);
+//       $('html, body').stop().animate({
+//           scrollTop: dest
+//       }, 1250, 'easeInOutExpo');
+//       event.preventDefault();
+//     }
+// });

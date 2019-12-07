@@ -15,7 +15,7 @@ La preocupación principal de la gente es clara, la falta de acceso al agua limp
 
 El Proyecto Nueva Presa de Jales para Buenavista del Cobre, es la pieza clave en el proyecto de expansión “Gran Visión”, de Grupo México, y se suma a los demás factores que ya ponen presión al acceso al agua de la Cuenca del Río Sonora: concesiones de agua para proyectos mineros pero obstáculos para los pobladores que quieren renovar sus permisos, así como la contaminación del agua provocada por Buenavista del Cobre hace cinco años.
 
-En el mapa se puede observar cómo ha crecido la mina de Cananea de Grupo México. Desde 2012 el crecimiento es más acelerado. En 2013 aparece la nueva presa de jales en la parte inferior del mapa y se observa su crecimiento hasta 2018.
+Al pulsar *play* en el mapa se puede observar cómo ha crecido la mina de Cananea de Grupo México. Desde 2012 el crecimiento es más acelerado. En 2013 aparece la nueva presa de jales en la parte inferior del mapa y se observa su crecimiento hasta 2018.
 
 <div class="embed-responsive embed-responsive-16by9 mb-4">
   <iframe class="embed-responsive-item" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=30.95743,-110.29345,9.736,latLng&t=3.43&ps=50&bt=19840101&et=20181231&startDwell=0&endDwell=0" allowfullscreen></iframe>
@@ -28,11 +28,14 @@ En el mapa se puede observar cómo ha crecido la mina de Cananea de Grupo Méxic
 
 La presa de jales sirve para depositar los residuos resultantes del proceso de separación de metales en la mina. Los residuos que se depositan incluyen solventes contaminantes, pero no minerales ni ácido, a diferencia de lo que contenía el lixiviado derramado en 2014.
 
+{:#infografia}
+[]()
+
 Sólo 27 kilómetros, casi lo mismo que recorren en par de horas quienes hacen el medio maratón de la Ciudad de México, separan a Bacanuchi de la presa, que ocupa 3,326 hectáreas de superficie y tiene capacidad de almacenar 2,040 millones de metros cúbicos de desechos tóxicos, o lo que es lo mismo que 816 mil albercas olímpicas. Para más contexto, dentro del vaso de almacenamiento, cabría Bacanuchi 138 veces. 
 
 El miedo de la gente es que un derrame proveniente de la nueva presa de jales podría arrasar con todo el pueblo de Bacanuchi y sus habitantes, y afectaría de forma directa a más de un millón de personas, incluidas aquellas que viven en los siete municipios que usan el río como forma de vida.
 
-{:.image-post #infografia}
+{:.image-post}
 ![Presa de jales. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/infografia-presadejales-6.png)
 
 Lejos queda la idea de comunidad que quiere generar Grupo México con sus eventos después del amparo ganado por Bacanuchi en 2018. El reclamo era que la empresa había iniciado en 2013, y con un Informe Preventivo aprobado por las autoridades, las obras de la presa de jales sin consultar a las comunidades. La Suprema Corte de Justicia de la Nación ordenó a Buenavista del Cobre a informar sobre los aspectos técnicos de la presa. 
