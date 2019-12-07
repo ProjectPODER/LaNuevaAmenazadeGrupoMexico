@@ -43,8 +43,19 @@ img {
 .footnotes {
     word-wrap: break-word;
 }
+
+.gif-infographic {
+    display: none;
+}
+
 @media (max-width: 767px) {
     h1, .h1 {
         font-size: 2rem;
+    }
+    .iframe-infographic {
+        display: none;
+    }
+    .gif-infographic {
+        display: block;
     }
 }
