@@ -75,11 +75,12 @@ La que sí estuvo invitada fue Irma Portes, directora de Desarrollo Comunitario 
 
 Los servidores de Semarnat y Profepa mantuvieron el discurso en todos los encuentros con las comunidades: “venimos a escuchar, no podemos emitir decisiones, pero en cuanto se tengan los resultados de estas reuniones, se van a enterar de los mismos. Todavía no sabemos de qué forma, pero se enterarán”. 
 
-[^nota1]: https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/SGIH-4-17.pdf
-[^nota2]: https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/EAUR2014-2015.pdf 
-[^nota3]: http://datos.aguaparatodos.org.mx/concesiones/ 
-[^nota4]: https://www.gob.mx/cms/uploads/attachment/file/297584/OCNO_07022018_Entrega_Conagua_al_Gobierno_del_Estado_el_Estudio_de_Reordenamiento_de_la_Cuenca_del_R_o_Sonora.pdf 
-[^nota5]: https://www.dof.gob.mx/nota_detalle.php?codigo=5579365&fecha=19/11/2019&print=true
-[^nota6]: https://www.sonora.gob.mx/noticias/6339-aprueban-proyecto-h%C3%ADdrico-para-zona-econ%C3%B3mica-especial-del-r%C3%ADo-sonora.html 
-[^nota7]: https://www.elsoldehermosillo.com.mx/local/celebran-reunion-de-la-zona-economica-especial-del-rio-sonora-4347305.html 
-[^nota8]: https://www.proceso.com.mx/606393/grupo-mexico-cede-a-la-guardia-nacional-edificio-para-victimas-de-derrame-en-sonora 
+[^nota1]: *[Estadísticas Agrícolas de las Unidades de Riego. Año Agrícola 2015-2016. Conagua. Semarnat.]({{ site.baseurl }}/ https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/SGIH-4-17.pdf)*
+[^nota2]: *[Estadísticas Agrícolas de las Unidades de Riego. Año Agrícola 2014-2015. Conagua. Semarnat.]({{ site.baseurl }}/ https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/EAUR2014-2015.pdf)*
+[^nota3]: *[Concesiones de Agua. Agua para Tod@s]({{ site.baseurl }}/http://datos.aguaparatodos.org.mx/concesiones/)*
+[^nota4]: *[Estadísticas Agrícolas de las Unidades de Riego. Año Agrícola 2014-2015. Conagua. Semarnat.]({{ site.baseurl }}/ https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/EAUR2014-2015.pdf)*
+[^nota3]: *[Entrega Conagua al Gobierno del Estado el Estudio de Reordenamiento de la Cuenca del Río Sonora. Comunicado de prensa No-08-18. Conagua Organismo de Cuenca Noroeste. 7 rebrero 2018]({{ site.baseurl }}/https://www.gob.mx/cms/uploads/attachment/file/297584/OCNO_07022018_Entrega_Conagua_al_Gobierno_del_Estado_el_Estudio_de_Reordenamiento_de_la_Cuenca_del_R_o_Sonora.pdf)* 
+[^nota5]:  *[Decreto de abrogación de las Zonas Económicas Especiales. Presidencia de la República. 19 noviembre 2019]({{ site.baseurl }}/https://www.dof.gob.mx/nota_detalle.php?codigo=5579365&fecha=19/11/2019&print=true)*
+[^nota6]: *[Aprueban proyecto hídrico para Zona Económica Especial del Río Sonora. Gobierno del Estado de Sonora. 12 septiembre 2019]({{ site.baseurl }}/https://www.sonora.gob.mx/noticias/6339-aprueban-proyecto-h%C3%ADdrico-para-zona-econ%C3%B3mica-especial-del-r%C3%ADo-sonora.html)*
+[^nota7]: *[Celebran reunión de la Zona Económica Especial del Río Sonora. El Sol de Hermosillo. 21 octubre 2019]({{ site.baseurl }}/https://www.elsoldehermosillo.com.mx/local/celebran-reunion-de-la-zona-economica-especial-del-rio-sonora-4347305.html)* 
+[^nota8]: *[Martínez, Milton. Grupo México cede a la Guardia Nacional edificio para víctimas de derrame en Sonora. Proceso. 10 noviembre 2019]({{ site.baseurl }}/https://www.proceso.com.mx/606393/grupo-mexico-cede-a-la-guardia-nacional-edificio-para-victimas-de-derrame-en-sonora)*
