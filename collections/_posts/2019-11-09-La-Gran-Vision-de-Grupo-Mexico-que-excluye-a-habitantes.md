@@ -92,4 +92,4 @@ PODER solicitó entrevista con Benjamín Berlanga, Titular de la Unidad de Trans
 
 
 [^nota1]: *[Castrejón, Daniel. Clavijo, Isabel. Dowley, Laura. Camacho Samantha & Lamberti, Julieta. Observaciones al Informe Preventivo del Proyecto "Nueva Presa de Jales para Buenavista del Cobre, S.A. de C.V." PODER. 5 julio 2019]({{ site.baseurl }}https://www.projectpoder.org/wp-content/uploads/2019/07/informe-de-observaciones-IP-Nueva-Presa-de-Jales-Version-Final2.pdf)*
-[^nota2]: https://expansion.mx/negocios/2015/03/20/grupo-mexico-paga-multa-de-235-mdp-por-derrame-en-sonora 
+[^nota2]: *[Notimex. Grupo México paga multa de 23.5 mdp por derrame en Sonora. Expansión. 20 marzo 2015]({{ site.baseurl }}https://expansion.mx/negocios/2015/03/20/grupo-mexico-paga-multa-de-235-mdp-por-derrame-en-sonora)*
