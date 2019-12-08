@@ -91,5 +91,5 @@ En diferentes reuniones, José Luis Bravo Soto, Director de Participación Ciuda
 PODER solicitó entrevista con Benjamín Berlanga, Titular de la Unidad de Transparencia de Semarnat, y a quien varios pobladores en Sonora expresaron que esperaban ver en las reuniones de octubre, para preguntar sobre los resultados de la inspección a la presa de jales por parte de Profepa y las acciones a tomar después de los encuentros con los habitantes. Pero de último momento el servidor público no se presentó a la entrevista pactada.
 
 
-[^nota1]: https://www.projectpoder.org/wp-content/uploads/2019/07/informe-de-observaciones-IP-Nueva-Presa-de-Jales-Version-Final2.pdf 
+[^nota1]: *[Castrejón, Daniel. Clavijo, Isabel. Dowley, Laura. Camacho Samantha & Lamberti, Julieta. Observaciones al Informe Preventivo del Proyecto "Nueva Presa de Jales para Buenavista del Cobre, S.A. de C.V." PODER. 5 julio 2019]({{ site.baseurl }}https://www.projectpoder.org/wp-content/uploads/2019/07/informe-de-observaciones-IP-Nueva-Presa-de-Jales-Version-Final2.pdf)*
 [^nota2]: https://expansion.mx/negocios/2015/03/20/grupo-mexico-paga-multa-de-235-mdp-por-derrame-en-sonora 
