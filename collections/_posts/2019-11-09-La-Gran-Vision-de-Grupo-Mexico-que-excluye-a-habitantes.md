@@ -92,7 +92,9 @@ En diferentes reuniones, José Luis Bravo Soto, Director de Participación Ciuda
 PODER solicitó entrevista con Benjamín Berlanga, Titular de la Unidad Coordinadora de Participación Social y de Transparencia de Semarnat, y a quien varios pobladores en Sonora expresaron que esperaban ver en las reuniones de octubre, para preguntar sobre las acciones a tomar después de los encuentros con los habitantes. Pero de último momento el servidor público no se presentó a la entrevista pactada.
 
 
-Edición de Eduard Martín-Borregón.
+
+**Edición de Eduard Martín-Borregón.**
+
 
 
 [^nota1]: *[Castrejón, Daniel. Clavijo, Isabel. Dowley, Laura. Camacho Samantha & Lamberti, Julieta. Observaciones al Informe Preventivo del Proyecto "Nueva Presa de Jales para Buenavista del Cobre, S.A. de C.V." PODER. 5 julio 2019]({{ site.baseurl }}https://www.projectpoder.org/wp-content/uploads/2019/07/informe-de-observaciones-IP-Nueva-Presa-de-Jales-Version-Final2.pdf)*
