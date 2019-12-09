@@ -42,7 +42,7 @@ QuiénEsQuién.Wiki está promovida por el Proyecto en Organización, Desarrollo
 **Desarrollo Front End:** Marisol Carrillo.  
 **Desarrollo Back End:** Fernando Matzdorf.  
 **Fotografías:** María Fernanda Wray, Luis Andrés Franco, Victoria Beltrán y Claudia Ocaranza.  
-**Coordinación de desarrollo:** Martín Szyslican.  
+**Coordinación de desarrollo:** Martín Szyszlican.  
 **Dirección de proyecto:** Eduard Martín-Borregón.  
 **Comunicación:** María Fernanda Wray y Mariela Álvarez.  
 
