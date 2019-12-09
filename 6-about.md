@@ -8,7 +8,7 @@ permalink: /sobre-proyecto/
 
 La Nueva Amenaza de Grupo México es un trabajo periodístico del Departamento de Periodismo, Datos y Tecnología, de la organización PODER, para mostrar los efectos que la construcción de la nueva presa de jales de Buenavista de Cobre, filial de Grupo México, está teniendo en la población de Sonora. Todas las afirmaciones aquí publicadas se encuentran justificadas en distintas fuentes, ya sea entrevistas con habitantes de Sonora, expertas y funcionarios; informes oficiales e investigaciones independientes. 
 
-  
+--- 
 
 # Metodología
 
@@ -34,6 +34,7 @@ Para obtener todos los contratos entre el gobierno y las proveedoras de Grupo M�
 
 QuiénEsQuién.Wiki está promovida por el Proyecto en Organización, Desarrollo, Educación e Investigación (PODER) y en alianza con medios como Ojo Público, El Universal Data y Plaza Pública, y organizaciones sociales como Wingu, Cargografías e Incide Social.
 
+---
   
 ## Créditos y agradecimientos
 
@@ -47,4 +48,4 @@ QuiénEsQuién.Wiki está promovida por el Proyecto en Organización, Desarrollo
 
 Agradecimientos: A Ricardo Balderas y Edelmira García por su apoyo en el proyecto, una mención muy especial a los Comités de Cuenca Río Sonora por ser la inspiración para este proyecto, y a Hivos y Luminate por su apoyo y confianza en el trabajo de PODER.
 
-Diciembre 2019.
+*Diciembre 2019*
