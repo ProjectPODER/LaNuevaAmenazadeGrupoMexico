@@ -5,14 +5,14 @@ author: "Claudia Ocaranza"
 image: graphic-example1.png
 order: 1
 ---
-“¡Lo puso Grupo México!”, grita un niño a la pregunta de quién puso un cine en la plaza principal de Huépac, en Sonora. El niño, de unos 4 años, quizá no sepa que esa misma empresa que hoy le da diversión, afecta desde hace muchos años su vida y la de su familia y vecinos, debido a la contaminación ambiental. Sus amigos mayores parecen saberlo y mientras le dicen que se calle, él señala a dos mujeres y asegura que ellas son las trabajadoras que montaron una pantalla y un proyector para que pudieran ver Toy Story 4. Ellas, con la intención de huir, tímidamente aceptan que sí, son parte del departamento de desarrollo social de la minera propiedad de Germán Larrea, el segundo hombre más rico de México. Las empleadas de Grupo México prometen que se pondrán en contacto para agendar una entrevista, cosa que hasta el cierre de este reportaje, no sucedió. 
+“¡Lo puso Grupo México!”, grita un niño a la pregunta de quién puso un cine en la plaza principal de Huépac, en Sonora. El niño, de unos 4 años, quizá no sepa que esa misma empresa que hoy le da diversión, afecta desde hace muchos años su vida y la de su familia y vecinos, debido a la contaminación ambiental. Sus amigos mayores parecen saberlo y mientras le dicen que se calle, él señala a dos mujeres y asegura que ellas son las trabajadoras que montaron una pantalla y un proyector para que pudieran ver Toy Story 3. Ellas, con la intención de huir, tímidamente aceptan que sí, son parte del departamento de desarrollo social de la minera propiedad de Germán Larrea, el segundo hombre más rico de México. Las empleadas de Grupo México prometen que se pondrán en contacto para agendar una entrevista, cosa que hasta el cierre de este reportaje, no sucedió. 
 
 {:.image-post}
 ![Actividades Grupo México. Crédito: Claudia Ocaranza]({{ site.baseurl }}/assets/img/grupomexicoactividades.png)
 
-Hay muchas actividades estos días de octubre: talleres para emprendedores, cine club, presentación de espectáculos musicales y rodadas en bici, organizadas por Grupo México de la mano de los Ayuntamientos que suceden al mismo tiempo que cuatro servidores públicos de las áreas de Participación Ciudadana de la Secretaría del Medio Ambiente y Recursos Naturales (Semarnat) y la Procuraduría Federal de Protección al Medio Ambiente (Profepa), recorren siete municipios de Sonora para escuchar a las personas afectadas por el derrame de 40 mil metros cúbicos de lixiviado de cobre de la mina Buenavista del Cobre, de Grupo México, de agosto de 2014.
+Hay muchas actividades estos días de octubre: talleres para emprendedores, cine club, presentación de espectáculos musicales y rodadas en bici, organizadas por Grupo México de la mano de los Ayuntamientos. Estos eventos suceden al mismo tiempo que cuatro servidores públicos de las áreas de Participación Ciudadana de la Secretaría del Medio Ambiente y Recursos Naturales (Semarnat) y la Procuraduría Federal de Protección al Ambiente (Profepa), recorren siete municipios de Sonora para escuchar a las personas afectadas por el derrame de 40 mil metros cúbicos de lixiviado de cobre de la mina Buenavista del Cobre, de Grupo México, ocurrido en agosto de 2014.
 
-La preocupación principal de la gente es clara, la falta de acceso al agua limpia y el contacto con agua contaminada, dado que no hubo una remediación real después del derrame, provoca miedo, desconfianza y enfermedad en la gente. Destaca lo que varios pobladores apuntaron en las reuniones y en entrevistas con PODER, el calvario no ha terminado para ellos y ahora además, enfrentan la amenaza de una nueva presa de jales que está construyendo Grupo México adentro de su mina.
+La preocupación principal de la gente es clara; la falta de acceso al agua limpia y el contacto con agua contaminada, dado que no hubo una remediación real después del derrame, provoca miedo, desconfianza y enfermedad en la gente. Destaca lo que varios pobladores apuntaron en las reuniones y en entrevistas con PODER, el calvario no ha terminado para ellos y ahora además, enfrentan la amenaza de una nueva presa de jales que está construyendo Grupo México adentro de su mina.
 
 El Proyecto Nueva Presa de Jales para Buenavista del Cobre, es la pieza clave en el proyecto de expansión “Gran Visión”, de Grupo México, y se suma a los demás factores que ya ponen presión al acceso al agua de la Cuenca del Río Sonora: concesiones de agua para proyectos mineros pero obstáculos para los pobladores que quieren renovar sus permisos, así como la contaminación del agua provocada por Buenavista del Cobre hace cinco años.
 
@@ -35,16 +35,16 @@ La presa de jales sirve para depositar los residuos resultantes del proceso de s
 {:#infografia}
 []()
 
-Sólo 27 kilómetros, casi lo mismo que recorren en par de horas quienes hacen el medio maratón de la Ciudad de México, separan a Bacanuchi de la presa, que ocupa 3,326 hectáreas de superficie y tiene capacidad de almacenar 2,040 millones de metros cúbicos de desechos tóxicos, o lo que es lo mismo que 816 mil albercas olímpicas. Para más contexto, dentro del vaso de almacenamiento, cabría Bacanuchi 138 veces. 
+Sólo 27 kilómetros, casi lo mismo que recorren en un par de horas quienes hacen el medio maratón de la Ciudad de México, separan a Bacanuchi de la presa, que ocupa 3,326 hectáreas de superficie y tiene capacidad de almacenar 2,040 millones de metros cúbicos de desechos tóxicos, o lo que es lo mismo que 816 mil albercas olímpicas. Para más contexto, dentro del vaso de almacenamiento, cabría el poblado de Bacanuchi 138 veces. 
 
 El miedo de la gente es que un derrame proveniente de la nueva presa de jales podría arrasar con todo el pueblo de Bacanuchi y sus habitantes, y afectaría de forma directa a más de un millón de personas, incluidas aquellas que viven en los siete municipios que usan el río como forma de vida.
 
 {:.image-post}
 ![Presa de jales. Crédito: María Fernanda Wray]({{ site.baseurl }}/assets/img/infografia-presadejales-6.png)
 
-Lejos queda la idea de comunidad que quiere generar Grupo México con sus eventos después del amparo ganado por Bacanuchi en 2018. El reclamo era que la empresa había iniciado en 2013, y con un Informe Preventivo aprobado por las autoridades, las obras de la presa de jales sin consultar a las comunidades. La Suprema Corte de Justicia de la Nación ordenó a Buenavista del Cobre a informar sobre los aspectos técnicos de la presa. 
+Lejos queda la idea de comunidad que quiere generar Grupo México con sus eventos después del amparo ganado por Bacanuchi en 2018. El reclamo era que la empresa había iniciado en 2013, y con un Informe Preventivo aprobado por las autoridades, las obras de la presa de jales sin consultar a las comunidades. La Suprema Corte de Justicia de la Nación ordenó a las autoridades responsables a informar sobre los aspectos técnicos de la presa, las medidas preventivas y garantizar su derecho a la participación. 
 
-Además el 5 de julio de 2019 la Semarnat tuvo una reunión en Bacanuchi para recoger las preocupaciones de las comunidades sobre la nueva presa de jales y se comprometió a que la Profepa haría una inspección en la presa de jales para verificar que Grupo México estuviera cumpliendo con las medidas de prevención y mitigación. Los resultados debieron llegar en septiembre, según su compromiso. Pero han pasado más de dos meses desde esa promesa y las autoridades no han devuelto las conclusiones de la inspección.
+Para la implementación de esa sentencia, el 5 de julio de 2019 la Semarnat tuvo una reunión en Bacanuchi, donde recogió las preocupaciones de las comunidades sobre la nueva presa de jales y se comprometió a que la Profepa haría una inspección para verificar que Grupo México estuviera cumpliendo con las medidas de prevención y mitigación. Los resultados debieron llegar en octubre, según su compromiso. Pero han pasado más de dos meses desde esa promesa y las autoridades no han devuelto a la comunidad las conclusiones de la inspección.
 
 ## Las irregularidades
 
@@ -61,7 +61,7 @@ Así que actualmente se pueden ver pequeñas bardas construidas a 2 kilómetros 
 
 Sobre la NOM-141-SEMARNAT-2003, la empresa señala en su informe que la cortina contenedora siguió los lineamientos de la misma y que realizó un estudio de estabilidad para probarlo. Pero no ha hecho público ese estudio, ni lo anexó en su Informe Preventivo, por lo que es imposible conocer si la cortina cumple con los requisitos de seguridad sin desglosarlos ni comprobarlos.
 
-Profepa informó el pasado 9 de septiembre que del 19 al 23 de agosto realizó una inspección de la megapresa de jales. Todavía no se conocen los resultados de la misma.
+Profepa informó el pasado 6 de septiembre que del 19 al 23 de agosto realizó la inspección de la megapresa de jales. Todavía no se conocen los resultados de la misma.
 
 ## Quiénes construyen la presa
 
@@ -69,11 +69,11 @@ El Proyecto Nueva Presa de Jales forma parte de la planta Concentradora de Cobre
 
 Los esfuerzos de construcción de la presa de jales, y en general para la expansión de la mina, son enormes. Y no sólo es Grupo México la involucrada. La empresa ha contratado a otras compañías para lograr su objetivo de ser la mina de cobre más importante en América Latina.
 
-Los proveedores o subcontratistas de Buenavista del Cobre suman a 52. Aunque no se puede conocer los contratos entre las empresas privadas, sí se pueden conocer qué contratos tuvieron al menos 42 de esas empresas aliadas de Grupo México en la expansión de su mina.
+Los proveedores o subcontratistas de Buenavista del Cobre suman a 52. Aunque no se puede conocer los contratos entre las empresas privadas, sí se pueden conocer qué contratos públicos tuvieron al menos 42 de esas empresas aliadas de Grupo México en la expansión de su mina.
 
-Desde 2009, cinco años antes del derrame de lixiviado de cobre, que es el mayor derrame en la industria minera en México, hasta la fecha, el gobierno de México erogó a esas 42 subcontratistas de Grupo México más de 47 mil millones de pesos a través de 1,327 contratos, de los cuales 482 fueron dados en adjudicación directa. Sólo 10 de esas firmas, como ICA Flour Daniel, Siemens y Grupo Construcciones Planificadasson las involucradas en la construcción de la Concentradora de Cobre II, pero suman más de 41 mil millones de pesos por 829 contratos.
+Desde 2009, cinco años antes del derrame de lixiviado de cobre, que es el mayor desastre ambiental en la historia de la industria minera en México hasta la fecha, el gobierno de México erogó a esas 42 subcontratistas de Grupo México más de 47 mil millones de pesos a través de 1,327 contratos, de los cuales 482 fueron dados en adjudicación directa. Sólo 10 de esas firmas, como ICA Flour Daniel, Siemens y Grupo Construcciones Planificadasson las involucradas en la construcción de la Concentradora de Cobre II, y ellas pero suman más de 41 mil millones de pesos por 829 contratos públicos.
 
-Y aunque sí existió una sanción por el derrame de 2014 de lixiviado de cobre por 23,565,938 pesos de multa por 50 irregularidades, además de los 2 mil millones de pesos para el Fideicomiso Río Sonora [^nota2] (cancelado por la empresa de forma unilateral), las empresas detrás de la expansión de Buenavista del Cobre podrían haber pagado la sanción 28 veces sólo con sus activos provenientes de los otros contratos con el gobierno en los últimos 10 años.
+Y aunque sí existió una sanción por el derrame de 2014 de lixiviado de cobre por 23,565,938 pesos de multa, además de los 2 mil millones de pesos para el Fideicomiso Río Sonora [^nota2] (de los cuáles se aportó sólo el 60% y que fue cancelado por la empresa y el gobierno de forma unilateral), las empresas detrás de la expansión de Buenavista del Cobre podrían haber pagado la sanción 28 veces sólo con sus activos provenientes de los otros contratos con el gobierno en los últimos 10 años.
 
 *[Descrubre a las contratistas de Grupo México]({{ site.baseurl }}/ellos-construyen-la-presa)*
 
@@ -81,15 +81,18 @@ Y aunque sí existió una sanción por el derrame de 2014 de lixiviado de cobre 
 
 Los habitantes no quieren la nueva presa de jales, así lo expresaron a los representantes de Semarnat y Profepa durante las reuniones. Después de que en cinco años desde el derrame no han recibido la remediación prometida y merecida, no tienen ninguna razón para confiar en las nuevas promesas de la administración de Andrés Manuel López Obrador ni en las de Grupo México; sin embargo, asisten a cada reunión para expresar su malestar. 
 
-“El miedo es que pueda volver a suceder un derrame, que todo se traslamine y contamine los mantos. Es una bomba de contaminación”, dice Elda León, habitante de Banamichi, sobre la nueva presa de jales, a Alicia Tamez y Miguel Sánchez, del área de participación ciudadana de Profepa y a Víctor Larraguibe y José Luis Bravo, del área de participación ciudadana de Semarnat, durante la primera reunión con pobladores afectados por el derrame de hace cinco años. 
+“El miedo es que pueda volver a suceder un derrame, que todo se traslamine y contamine los mantos. Es una bomba de contaminación”, dice Elda León, habitante de Banamichi, sobre la nueva presa de jales, a Alicia Tamez y Miguel Sánchez, del área de participación ciudadana de Profepa y a Víctor Larraguivel y José Luis Bravo, del área de participación ciudadana de Semarnat, durante la primera reunión con pobladores afectados por el derrame de hace cinco años. 
 
-A la par que algunas personas toman el micrófono (prestado por los mismos habitantes del municipio ante la desorganización de los servidores), para expresar su malestar, Larraguibe reparte formatos para que quienes no desean hablar, escriban sus peticiones. Pero los servidores públicos tampoco llevan plumas. De a poco algunas plumas van pasando de mano en mano, otra vez préstamo de vecinos.
+A la par que algunas personas toman el micrófono (prestado por los mismos habitantes del municipio ante la desorganización de los servidores), para expresar su malestar, Larraguivel reparte formatos para que quienes no desean hablar, escriban sus peticiones. Pero los servidores públicos tampoco llevan plumas. De a poco algunas plumas van pasando de mano en mano, otra vez como préstamo de vecinos.
 
-Después de esa primera reunión, los servidores de Semarnat y Profepa se presentaron los siguientes días con bocina y plumas propias, escucharon atentamente e invitaron en diferentes ocasiones a que la gente participara, aunque de entre las reuniones de la primera semana ninguna duró las dos horas prometidas. 
+Después de esa primera reunión, los servidores de Semarnat y Profepa se presentaron los siguientes días con bocina y plumas propias, escucharon atentamente e invitaron en diferentes ocasiones a que la gente participara.
 
-En diferentes reuniones, José Luis Bravo Soto, Director de Participación Ciudadana de Semarnat, dijo que por órdenes del presidente, el secretario de Medio Ambiente y Recursos Naturales, Víctor Toledo, asistiría a Sonora en la semana del 20 de noviembre. Han pasado dos semanas desde esa fecha y nadie ha devuelto propuestas resultantes de las reuniones a los pobladores de los municipios visitados. 
+En diferentes reuniones, José Luis Bravo Soto, Director de Participación Ciudadana de Semarnat, dijo que por órdenes del presidente, el secretario de Medio Ambiente y Recursos Naturales, Víctor Toledo, asistiría a Sonora en la semana del 20 de noviembre. Han pasado dos semanas desde esa fecha y nadie ha devuelto propuestas resultantes de las reuniones a los pobladores de los municipios visitados ni se ha presentado el secretario en la región. 
 
-PODER solicitó entrevista con Benjamín Berlanga, Titular de la Unidad de Transparencia de Semarnat, y a quien varios pobladores en Sonora expresaron que esperaban ver en las reuniones de octubre, para preguntar sobre los resultados de la inspección a la presa de jales por parte de Profepa y las acciones a tomar después de los encuentros con los habitantes. Pero de último momento el servidor público no se presentó a la entrevista pactada.
+PODER solicitó entrevista con Benjamín Berlanga, Titular de la Unidad Coordinadora de Participación Social y de Transparencia de Semarnat, y a quien varios pobladores en Sonora expresaron que esperaban ver en las reuniones de octubre, para preguntar sobre las acciones a tomar después de los encuentros con los habitantes. Pero de último momento el servidor público no se presentó a la entrevista pactada.
+
+
+Edición de Eduard Martín-Borregón.
 
 
 [^nota1]: *[Castrejón, Daniel. Clavijo, Isabel. Dowley, Laura. Camacho Samantha & Lamberti, Julieta. Observaciones al Informe Preventivo del Proyecto "Nueva Presa de Jales para Buenavista del Cobre, S.A. de C.V." PODER. 5 julio 2019]({{ site.baseurl }}https://www.projectpoder.org/wp-content/uploads/2019/07/informe-de-observaciones-IP-Nueva-Presa-de-Jales-Version-Final2.pdf)*
