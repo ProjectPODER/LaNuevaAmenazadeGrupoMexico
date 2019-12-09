@@ -14,7 +14,7 @@ La Nueva Amenaza de Grupo México es un trabajo periodístico del Departamento d
 
 ## Visualización y micrositio
 
-El proyecto utiliza el sistema TowerBuilder,  que no requiere de programación para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente en grandes obras públicas ([TorreDeControl.org](https://torredecontrol.projectpoder.org/)) y en la compra de medicamentos ([VivirConVIH.org](http://livingwithhiv.org/)).
+El proyecto utiliza el sistema [TowerBuilder](https://towerbuilder.readthedocs.io/es/latest/),  que no requiere de programación para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente en grandes obras públicas ([TorreDeControl.org](https://torredecontrol.projectpoder.org/)) y en la compra de medicamentos ([VivirConVIH.org](http://livingwithhiv.org/)).
   
   
 ## Fuentes
@@ -46,6 +46,6 @@ QuiénEsQuién.Wiki está promovida por el Proyecto en Organización, Desarrollo
 **Dirección de proyecto:** Eduard Martín-Borregón.  
 **Comunicación:** María Fernanda Wray y Mariela Álvarez.  
 
-Agradecimientos: A Ricardo Balderas y Edelmira García por su apoyo en el proyecto, una mención muy especial a los Comités de Cuenca Río Sonora por ser la inspiración para este proyecto, y a Hivos y Luminate por su apoyo y confianza en el trabajo de PODER.
+Agradecimientos: A Ricardo Balderas y Edelmira García por su apoyo en el proyecto, una mención muy especial a los Comités de Cuenca Río Sonora por ser la inspiración para este proyecto, y a [Hivos](https://www.hivos.org/) y [Luminate](https://luminategroup.com/) por su apoyo y confianza en el trabajo de PODER.
 
 *Diciembre 2019*
