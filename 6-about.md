@@ -42,6 +42,8 @@ Coordinación de desarrollo: Martín Szyslican.
 Dirección de proyecto: Eduard Martín-Borregón.
 Comunicación: María Fernanda Wray y Mariela Álvarez.
 
-Agradecemos en especial a los Comités de Cuenca Río Sonora, a Edelmira García, a Hivos y a Mael Vallejo.
+Agradecemos el apoyo de Ricardo Balderas y Edelmira García.
+
+Agradecemos en especial a los Comités de Cuenca Río Sonora por ser la inspiración para este proyecto, y a Hivos.
 
 Noviembre 2019.
