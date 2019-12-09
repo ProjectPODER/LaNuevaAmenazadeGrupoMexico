@@ -75,7 +75,9 @@ La que sí estuvo invitada fue Irma Portes, directora de Desarrollo Comunitario 
 
 Los servidores de Semarnat y Profepa mantuvieron el mismo discurso en todos los encuentros con las comunidades: “venimos a escuchar, no podemos emitir decisiones, pero en cuanto se tengan los resultados de estas reuniones, se van a enterar de los mismos. Todavía no sabemos de qué forma, pero se enterarán”. 
 
+
 **Edición de Eduard Martín-Borregón.**
+
 
 [^nota1]: *[Estadísticas Agrícolas de las Unidades de Riego. Año Agrícola 2015-2016. Conagua. Semarnat.]({{ site.baseurl }}/ https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/SGIH-4-17.pdf)*
 [^nota2]: *[Estadísticas Agrícolas de las Unidades de Riego. Año Agrícola 2014-2015. Conagua. Semarnat.]({{ site.baseurl }}/ https://files.conagua.gob.mx/conagua/publicaciones/Publicaciones/EAUR2014-2015.pdf)*
