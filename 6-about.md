@@ -4,53 +4,44 @@ title: Sobre el proyecto
 permalink: /sobre-proyecto/
 ---
 
-# Building my website with TowerBuilder
+# Quiénes somos
 
-TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge. It is designed to follow the money in large contracting processes and has been used in both big public works [TorreDeControl.org](https://torredecontrol.projectpoder.org/) and in medicine procurement [VivirConVIH.org](http://livingwithhiv.org/).
+La Nueva Amenaza de Grupo México es un trabajo periodístico del Departamento de Periodismo, Datos y Tecnología, de la organización PODER, para mostrar los efectos que la construcción de la nueva presa de jales de Buenavista de Cobre, filial de Grupo México, está teniendo en la población de Sonora. Todas las afirmaciones aquí publicadas se encuentran justificadas en distintas fuentes, ya sea entrevistas con habitantes de Sonora, expertas y funcionarios; informes oficiales e investigaciones independientes. 
 
-## What do I need to create my own TowerBuilder website?
+# Metodología
 
-- Get an OCDS-format contracting list.
-- Create a spreadsheet shared with contracting businesses owners.
-- Write and edit text in [MarkDown](https://guides.github.com/features/mastering-markdown/) format.
-- A [GitHub.com](https://github.com/) account.
+## Visualización y micrositio
 
-## What are the advantages of creating websites using TowerBuilder?
+El proyecto utiliza el sistema TowerBuilder,  que no requiere de programación para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente en grandes obras públicas ([TorreDeControl.org](https://torredecontrol.projectpoder.org/)) y en la compra de medicamentos ([VivirConVIH.org](http://livingwithhiv.org/)).
 
-- Default design doesn't require any coding or web hosting, everything is done in GitHub.com.
-- Visually impressive data visualization and a useful contracting search system.
-- If you already have the data, you'll be able to create your website within minutes.
-- Highly customizable design.
-- You can use open data from your country's government and show how useful the open contracting standard (OCDS) is for journalism.
+## Fuentes
 
-If, during this process you find anything to be difficult, you can try again in 15 minutes, check our [Errors and Corrections](https://towerbuilder.readthedocs.io/en/latest/C3/Seccion1.html) section, or [ask for help](https://towerbuilder.readthedocs.io/en/latest/C3/Seccion1.html#i-have-another-issue).
+### Investigación de campo
 
-## Launched projects
+Se realizó una visita a Sonora desde el 22 a 25 de octubre para seguir las reuniones entre Semarnat y Profepa con las personas afectadas por el derrame de lixiviado de cobre en la mina Buenavista del Cobre en 2014. Ahí se entrevistó a algunos de los afectados. Además se realizaron más entrevistas por teléfono.
+Se entrevistó a autoridades responsables de dar una respuesta a las personas afectadas por el derrame y la presa de jales, y a expertas en el tema del agua.
 
-- Living with HIV - [http://livingwithhiv.org/](http://livingwithhiv.org/)
+### Fuentes documentales
 
-Contact us to add your project created with TowerBuilder through the following e-mail address: <info@quienesquien.wiki>.
+Se consultó informes del Departamento de Investigación de PODER, estudios y cifras de Conagua, información de Agua para Todxs, así como otros reportajes y notas periodísticas referidas en los reportajes.
 
-## Demos
+### QuiénEsQuién.Wiki
 
-Spanish: <http://es.towerbuilder.projectpoder.org/>
+Para obtener todos los contratos entre el gobierno y las proveedoras de Grupo México en su plan de expansión “Gran Visión”, que incluye el Proyecto Nueva Presa de Jales. 
 
-English: <https://towerbuilder.projectpoder.org/>
+QuiénEsQuién.Wiki está promovida por el Proyecto en Organización, Desarrollo, Educación e Investigación (PODER) y en alianza con medios como Ojo Público, El Universal Data y Plaza Pública, y organizaciones sociales como Wingu, Cargografías e Incide Social.
 
-### Iframe versions
+## Créditos y agradecimientos
 
-Tower Builder has versions that can be inserted as an iframe in other websites: 
+Investigación y coordinación de proyecto: Claudia Ocaranza con el apoyo del equipo de PODER.
+Desarrollo Front End: Marisol Carrillo.
+Desarrollo Back End: Fernando Matzdorf.
+Fotografías: María Fernanda Wray, Luis Andrés Franco, Victoria Beltrán y Claudia Ocaranza.
 
-<https://towerbuilder.projectpoder.org/?iframe>.
+Coordinación de desarrollo: Martín Szyslican.
+Dirección de proyecto: Eduard Martín-Borregón.
+Comunicación: María Fernanda Wray y Mariela Álvarez.
 
-Visualization or slider iframe:
+Agradecemos en especial a los Comités de Cuenca Río Sonora, a Edelmira García, a Hivos y a Mael Vallejo.
 
-<https://towerbuilder.projectpoder.org/iframe-visualization/>
-
-<https://towerbuilder.projectpoder.org/iframe-slider/>
-
-## Documentation
-
-Spanish: <https://towerbuilder.readthedocs.io/es/latest/index.html>
-
-English: <https://towerbuilder.readthedocs.io/en/latest/index.html>
+Noviembre 2019.
