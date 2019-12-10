@@ -96,3 +96,15 @@
         transform: rotate(360deg);  /* Firefox 16+, IE 10+, Opera */
     }
 }
+
+// @media (max-width: 992px) {
+//     #fullpage {
+//         margin-top: 140px;
+//     }
+// }
+
+@media (max-width: 767px) {
+    #page-loader {
+        top: 60px;
+    }
+}

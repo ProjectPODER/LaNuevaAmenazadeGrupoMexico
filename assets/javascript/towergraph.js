@@ -1398,9 +1398,9 @@ function setupFullPage() {
     responsiveWidth: 992,
     afterResponsive: function(isResponsive){
     },
-    paddingTop: isMobile
-      ? '0px'
-      : ($('.site-top-ribbon').height() + 60) + 'px',
+    // paddingTop: isMobile
+    //   ? '0px'
+    //   : ($('.site-top-ribbon').height() + 60) + 'px',
     scrollingSpeed: 300,
     onLeave: (index, nextIndex, direction) => {
       $(`.info-container`).removeClass('slide-active slide-leaving');
