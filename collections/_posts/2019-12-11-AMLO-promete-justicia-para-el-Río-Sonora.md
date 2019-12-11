@@ -11,3 +11,5 @@ El presidente Andrés Manuel López Obrador aseguró que el jueves 12 de diciemb
 A la pregunta de PODER durante la conferencia de prensa del 11 de diciembre, sobre el atraso de la entrega del dictamen de la inspección de la Procuraduría Federal del Ambiente (Profepa) en Buenavista del Cobre, incluida la nueva presa de jales, y que debía ser presentado a las comunidades en octubre, AMLO comentó que “sí, puede ser que se haya demorado, pero no es por influencia de nadie, ya no es lo mismo que antes, también en esto. Ahora puede ser que tarde la justicia, pero llega”. 
 
 AMLO no confirmó si habrá una nueva sanción para Grupo México basada en los resultados del dictamen de la inspección, pero prometió que “va a haber justicia y nosotros cumplimos los compromisos”, dijo como respuesta a la pregunta sobre cuál era su promesa para las personas afectadas por el derrame de hace cinco años y la actual presa de jales.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XiiaQ60g_2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
