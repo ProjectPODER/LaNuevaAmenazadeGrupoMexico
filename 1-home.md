@@ -14,4 +14,4 @@ Con una capacidad de almacenamiento de 2,040 millones de metros cúbicos de dese
 [Los rostros del derrame]({{ site.baseurl }}/los-rostros-del-derrame)
 
 {:.info-link}
-[Ver la infografía completa]({{ site.baseurl }}/2019/11/09/La-Gran-Vision-de-Grupo-Mexico-que-excluye-a-habitantes.html#infografia)
+[Ver la infografía completa]({{ site.baseurl }}/2019/12/09/La-Gran-Vision-de-Grupo-Mexico-que-excluye-a-habitantes.html#infografia)
