@@ -2,7 +2,7 @@
 layout: post
 title: AMLO promete justicia para el Río Sonora
 author: "Claudia Ocaranza"
-image: AguaBacanuchiPODER.jpg
+image: AMLO11diciembre.jpeg
 order: 3
 ---
 
