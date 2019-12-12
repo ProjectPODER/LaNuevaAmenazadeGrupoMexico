@@ -10,12 +10,12 @@ Académicos de la Universidad de Sonora (UNISON) usan recursos patrocinados por 
 
 Vía Méxicoleaks, este medio de comunicación recibió documentación sobre cómo algunos miembros de la comunidad científica aparecen constantemente apoyando a las empresas mineras y no a las comunidades afectadas. Se trata de Felipe Mora Arellano, Héctor Mendivil Quijada y a Miguel Rangel Medina. Los dos últimos además de su labor en diferentes universidades, hacen negocios con el gobierno.
 
-Rangel Medina trabajó como investigador del departamento de Geología de la UNISON, aunque las percepciones monetarias por ese puesto no aparecen en el registro de transparencia de la universidad1. Además, posee dos empresas con las que realiza licitaciones públicas: Ideas en Diseño y Maquinados Industriales, S. de R.L. de C.V. (Ideas) e Investigación y Desarrollo de Acuíferos y Ambiente, S.A. de C.V. 
+Rangel Medina trabajó como investigador del departamento de Geología de la UNISON, aunque las percepciones monetarias por ese puesto no aparecen en el registro de transparencia de la universidad [^nota1]. Además, posee dos empresas con las que realiza licitaciones públicas: Ideas en Diseño y Maquinados Industriales, S. de R.L. de C.V. (Ideas) e Investigación y Desarrollo de Acuíferos y Ambiente, S.A. de C.V. 
 
 {:.image-post}
 ![GEO]({{ site.baseurl }}/assets/img/Foto_02.jpg)
 
-También cobra como persona moral. Con cargo al erario de los sonorenses, Miguel Rangel Medina, doctor de la UNISON, cobró al gobierno local 865,000 pesos para realizar un estudio denominado: “Elaboración de un modelo conceptual de funcionamiento hidrogeológico e hidrogeoquímico y computacional de flujo de las aguas subterráneas del valle de Guaymas, Estado de Sonora”, mismo estudio que serviría para justificar los trabajos reportados por la autoridad por el concepto de contrataciones de servicios profesionales2.
+También cobra como persona moral. Con cargo al erario de los sonorenses, Miguel Rangel Medina, doctor de la UNISON, cobró al gobierno local 865,000 pesos para realizar un estudio denominado: “Elaboración de un modelo conceptual de funcionamiento hidrogeológico e hidrogeoquímico y computacional de flujo de las aguas subterráneas del valle de Guaymas, Estado de Sonora”, mismo estudio que serviría para justificar los trabajos reportados por la autoridad por el concepto de contrataciones de servicios profesionales [^nota2].
 
 Asimismo, Rangel Medina es editor de la publicación “Revista Latinoamericana de Hidrogeología”, pertenenciente a la Asociación Latinoamericana de Hidrología Subtearránea para el Desarrollo (ALHSUD), en la que Rangel Medina también es presidente.  Los derechos de publicación de la revista son de la Universidad de Sonora, con dirección fiscal en Rosales y Blvd. Luis Encinas, Hermosillo y registrada con el ISSN: 1676-0999. 
 
@@ -30,13 +30,13 @@ En la misma revista aparece el segundo nombre. Se trata del también docente Fel
 
 Sobre Mora Arellano, otros docentes que prefirieron conservar el anonimato, también trabajadores de la UNISON, cuentan a este medio de comunicación que se le ha visto en charlas amistosas con trabajadores de alto nivel de la empresa de los Larrea. Se trata de un profesor de sociología de tiempo completo también de la UNISON.
 
-Finalmente, Héctor Mendivil Quijada actualmente miembro del cuerpo docente de la Universidad Nacional Autónoma de México (UNAM)3 y extrabajador de la UNISON, es también fundador activo de la empresa Geo Digital Imaging de México, S.A. de C.V.. Dicha empresa publica en su sitio oficial que uno de sus mejores clientes es justo Grupo México4.
+Finalmente, Héctor Mendivil Quijada actualmente miembro del cuerpo docente de la Universidad Nacional Autónoma de México (UNAM) [^nota3] y extrabajador de la UNISON, es también fundador activo de la empresa Geo Digital Imaging de México, S.A. de C.V.. Dicha empresa publica en su sitio oficial que uno de sus mejores clientes es justo Grupo México [^nota4].
 
 ### Día Mundial  del Agua
 
 “Mucha oposición ambientalista (a la minería) proviene de la falta de conocimiento (…) Este es el objetivo de ediciones como ésta, que permiten abrir las puertas del conocimiento a una industria extractiva que no por ser odiada por algunos, dejará de trabajar, pues esta industria es el ejemplo óptimo del uso de los recursos naturales”, afirma el texto de introducción a la revista que Rangel Medina repartió en la SCJN y firmó. 
 
-Hay más pruebas sobre la cercanía del académico con Grupo México. En el marco del Día Mundial del Agua de 2017, Rangel Medina fue uno de los invitados a Casa Grande Nacozari, parte del departamento de Desarrollo Comunitario de la empresa, a dar la conferencia “El agua en el mundo: una comunidad que vive la escasez del agua”5.
+Hay más pruebas sobre la cercanía del académico con Grupo México. En el marco del Día Mundial del Agua de 2017, Rangel Medina fue uno de los invitados a Casa Grande Nacozari, parte del departamento de Desarrollo Comunitario de la empresa, a dar la conferencia “El agua en el mundo: una comunidad que vive la escasez del agua” [^nota5].
 
 {:.image-post}
 ![Rangel en el foro]({{ site.baseurl }}/assets/img/Rangel_vendiendo_su_alma_a_GM_03.jpg)
@@ -52,4 +52,12 @@ Dos de esos contratos fueron para la firma Investigación y Desarrollo de Acuíf
 Por su parte, la empresa de Héctor Mendivil Quijada recibió cinco contratos por los conceptos de capacitación, mantenimiento de licencias, entrenamiento virtual de Oasis Montaj y una capacitación en geofísica. El monto por estas adjudicaciones fue de 117,237 pesos.
 
 Hasta el cierre de esta edición, el académico Rangel Medina no respondió a las solicitudes de entrevista realizadas por los canales conducentes.
- 
+
+---
+
+[^nota1]: *[Relación de contratos de servicios profesionales. Transparencia de Sonora.2016]({{ site.baseurl }}http://transparencia.esonora.gob.mx/NR/rdonlyres/4B46DB6F-ADDE-485E-A921-B213DC64B1B4/210234/3erTRIMESTREFOOSSI.pdf)*
+[^nota2]: *[Contrato a Rangel Medina]({{ site.baseurl }}http://transparencia.esonora.gob.mx/NR/rdonlyres/4B46DB6F-ADDE-485E-A921-B213DC64B1B4/210234/3erTRIMESTREFOOSSI.pdf)*
+[^nota3]: *[UNAM. Directorio. Instituto de Geología. 2019]({{ site.baseurl }}http://www.geologia.unam.mx:8080/igl/index.php/mendivil-quijada-h/770-hector-mendivil-quijada)*
+[^nota4]: *[Geo Digital. Fundadores. 2019]({{ site.baseurl }}https://www.gdim.com.mx/about)*
+[^nota5]: *[Grupo México. En Grupo México el agua es un recurso que cuidamos. Outlet Minero. 7 abril 2017]({{ site.baseurl }}http://outletminero.org/en-grupo-mexico-el-agua-es-un-recurso-que-cuidamos/)*
+
