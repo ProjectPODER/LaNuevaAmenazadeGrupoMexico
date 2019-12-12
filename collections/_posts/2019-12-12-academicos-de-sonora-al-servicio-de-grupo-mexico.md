@@ -12,7 +12,8 @@ Vía Méxicoleaks, este medio de comunicación recibió documentación sobre có
 
 Rangel Medina trabajó como investigador del departamento de Geología de la UNISON, aunque las percepciones monetarias por ese puesto no aparecen en el registro de transparencia de la universidad1. Además, posee dos empresas con las que realiza licitaciones públicas: Ideas en Diseño y Maquinados Industriales, S. de R.L. de C.V. (Ideas) e Investigación y Desarrollo de Acuíferos y Ambiente, S.A. de C.V. 
 
-[FOTO_02]
+{:.image-post}
+![GEO]({{ site.baseurl }}/assets/img/Foto_02.jpg)
 
 También cobra como persona moral. Con cargo al erario de los sonorenses, Miguel Rangel Medina, doctor de la UNISON, cobró al gobierno local 865,000 pesos para realizar un estudio denominado: “Elaboración de un modelo conceptual de funcionamiento hidrogeológico e hidrogeoquímico y computacional de flujo de las aguas subterráneas del valle de Guaymas, Estado de Sonora”, mismo estudio que serviría para justificar los trabajos reportados por la autoridad por el concepto de contrataciones de servicios profesionales2.
 
@@ -22,7 +23,8 @@ La revista publicada en 2019 a favor de la minería, fue vista en el interior de
 
 Finalmente los ministros de la segunda sala de la SCJN decidieron aplazar la resolución de dicho amparo y estudiarlo en conjunto con otros dos amparos interpuestos por los CCRS, también vinculados a las operaciones del Fideicomiso. Aún se espera conocer qué resolverá el máximo tribunal sobre estos casos.
 
-[Revista_03]
+{:.image-post}
+![Revista]({{ site.baseurl }}/assets/img/Revista_03.jpg)
 
 En la misma revista aparece el segundo nombre. Se trata del también docente Felipe Mora Arellano, quien se registra como coordinador de autores.
 
@@ -36,7 +38,8 @@ Finalmente, Héctor Mendivil Quijada actualmente miembro del cuerpo docente de l
 
 Hay más pruebas sobre la cercanía del académico con Grupo México. En el marco del Día Mundial del Agua de 2017, Rangel Medina fue uno de los invitados a Casa Grande Nacozari, parte del departamento de Desarrollo Comunitario de la empresa, a dar la conferencia “El agua en el mundo: una comunidad que vive la escasez del agua”5.
 
-[RANGEL VENDIENDO SU ALMA A GM_03]
+{:.image-post}
+![Rangel en el foro]({{ site.baseurl }}/assets/img/Rangel_vendiendo_su_alma_a_GM_03.jpg)
 
 Los temas que el empresario/académico trató en la conferencia de Grupo México fueron: las alternativas de uso de agua y optimización en los procesos industriales, la economía del agua en el mundo, el agua y la industria minera. Y sostuvo frente a los asistentes la efectividad que Grupo México daba en el tratamiento de sus aguas. 
  
