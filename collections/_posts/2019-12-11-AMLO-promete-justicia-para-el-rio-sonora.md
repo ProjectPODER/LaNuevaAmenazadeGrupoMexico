@@ -16,7 +16,7 @@ AMLO no confirmó si habrá una nueva sanción para Grupo México basada en los 
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/379018690" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-*Actualización
+### **Actualización**
 
 El 12 de diciembre, un día después de las preguntas de PODER en la conferencia de prensa del presidente Andrés Manuel López Obrador, el secretario de Medio Ambiente, Víctor Toledo; y la procuradora federal de protección al ambiente, Blanca Alicia Mendoza, hablaron sobre la situación del caso Sonora. 
 
