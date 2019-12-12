@@ -55,6 +55,10 @@ Hasta el cierre de esta edición, el académico Rangel Medina no respondió a la
 
 ---
 
+**Edición Eduard Martín-Borregón**
+
+---
+
 [^nota1]: *[Relación de contratos de servicios profesionales. Transparencia de Sonora.2016]({{ site.baseurl }}http://transparencia.esonora.gob.mx/NR/rdonlyres/4B46DB6F-ADDE-485E-A921-B213DC64B1B4/210234/3erTRIMESTREFOOSSI.pdf)*
 [^nota2]: *[Contrato a Rangel Medina]({{ site.baseurl }}http://transparencia.esonora.gob.mx/NR/rdonlyres/4B46DB6F-ADDE-485E-A921-B213DC64B1B4/210234/3erTRIMESTREFOOSSI.pdf)*
 [^nota3]: *[UNAM. Directorio. Instituto de Geología. 2019]({{ site.baseurl }}http://www.geologia.unam.mx:8080/igl/index.php/mendivil-quijada-h/770-hector-mendivil-quijada)*
