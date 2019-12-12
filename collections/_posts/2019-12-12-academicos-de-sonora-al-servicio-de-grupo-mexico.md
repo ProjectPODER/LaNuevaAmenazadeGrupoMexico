@@ -39,7 +39,7 @@ Finalmente, Héctor Mendivil Quijada actualmente miembro del cuerpo docente de l
 Hay más pruebas sobre la cercanía del académico con Grupo México. En el marco del Día Mundial del Agua de 2017, Rangel Medina fue uno de los invitados a Casa Grande Nacozari, parte del departamento de Desarrollo Comunitario de la empresa, a dar la conferencia “El agua en el mundo: una comunidad que vive la escasez del agua” [^nota5].
 
 {:.image-post}
-![Rangel en el foro]({{ site.baseurl }}/assets/img/Rangel_vendiendo_su_alma_a_GM_03.jpg)
+![Rangel en el foro]({{ site.baseurl }}/assets/img/Rangel_GM_03.jpg)
 
 Los temas que el empresario/académico trató en la conferencia de Grupo México fueron: las alternativas de uso de agua y optimización en los procesos industriales, la economía del agua en el mundo, el agua y la industria minera. Y sostuvo frente a los asistentes la efectividad que Grupo México daba en el tratamiento de sus aguas. 
  
