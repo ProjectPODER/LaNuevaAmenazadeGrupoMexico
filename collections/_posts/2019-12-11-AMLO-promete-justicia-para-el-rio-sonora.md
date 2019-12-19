@@ -32,4 +32,12 @@ De acuerdo con Blanca Alicia Mendoza, los resultados de las inspecciones de la m
 
 Sobre el fideicomiso, Mendoza dijo que Buenavista del Cobre había incumplido con la aportación completa del mismo, y que dado que habían faltado 800 millones de pesos (de 2,000 millones de pesos) y que no es un acuerdo entre particulares, "la empresa tiene que responder". No especificó de qué forma le harán responder.
 
+---
+
+### **Actualización 19 diciembre 2019**
+
+El 18 de diciembre acudieron a Sonora Toledo, Mendoza y Alcocer Varela, para reunirse con las comunidades afectadas por el derrame de 2014. Si bien mencionaron que habría justicia, no dieron propuestas concretas para remediar los problemas en torno a la salud, la economía y al acceso a agua limpia que enfrenta la gente desde el derrame.
+
+A la pregunta de PODER al presidente López Obrador durante su conferencia de prensa el 19 de diciembre, sobre las fechas y propuestas de remediación, así como la posible cancelación de la nueva presa de jales y el pago de los 800 mdp que no pagó Grupo México al Fideicomiso Río Sonora, AMLO respondió que el lunes 23 de diciembre asistirán las autoridades responsables a la conferencia para dar respuestas. 
+
 
