@@ -32,7 +32,6 @@ De acuerdo con Blanca Alicia Mendoza, los resultados de las inspecciones de la m
 
 Sobre el fideicomiso, Mendoza dijo que Buenavista del Cobre había incumplido con la aportación completa del mismo, y que dado que habían faltado 800 millones de pesos (de 2,000 millones de pesos) y que no es un acuerdo entre particulares, "la empresa tiene que responder". No especificó de qué forma le harán responder.
 
----
 
 ### **Actualización 19 diciembre 2019**
 
