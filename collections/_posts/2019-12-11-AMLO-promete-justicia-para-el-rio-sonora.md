@@ -16,7 +16,7 @@ AMLO no confirmó si habrá una nueva sanción para Grupo México basada en los 
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/379018690" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### **Actualización**
+### **Actualización 12 diciembre 2019**
 
 El 12 de diciembre, un día después de las preguntas de PODER en la conferencia de prensa del presidente Andrés Manuel López Obrador, el secretario de Medio Ambiente, Víctor Toledo; y la procuradora federal de protección al ambiente, Blanca Alicia Mendoza, hablaron sobre la situación del caso Sonora. 
 
@@ -39,4 +39,15 @@ El 18 de diciembre acudieron a Sonora Toledo, Mendoza y Alcocer Varela, para reu
 
 A la pregunta de PODER al presidente López Obrador durante su conferencia de prensa el 19 de diciembre, sobre las fechas y propuestas de remediación, así como la posible cancelación de la nueva presa de jales y el pago de los 800 mdp que no pagó Grupo México al Fideicomiso Río Sonora, AMLO respondió que el lunes 23 de diciembre asistirán las autoridades responsables a la conferencia para dar respuestas. 
 
+### **Actualización 23 diciembre 2019**
+
+Víctor Manuel Toledo y Jorge Alcocer Varela, secretarios de medio ambiente y de salud, respectivamente, reconocieron que Grupo México incumplió con la remediación efectiva en el Río Sonora después del derrame de sulfato de cobre en su mina Buenavista del Cobre. El 23 de diciembre ambos secretarios presentaron, durante la conferencia de prensa del presidente Andrés Manuel López Obrador, los resultados de las reuniones con las comunidades afectadas el pasado 18 de diciembre en Ures, Sonora.
+
+Aseguraron que llevarán salud al río, a través de la "verificación periódica de la calidad del agua por parte de los laboratorios de COFEPRIS, y la verificación de las mineras y sus espacios laborales", así como la verificación de las aguas de riego y para consumo animal por parte de CONAGUA, aunque la Comisión no estuvo ni en las reuniones con los habitantes en octubre ni en la de diciembre pasado, ni en La Mañanera. Igualmente Alcocer Varela informó que se ampliará el hospital comunitario de Ures y se reactivará la Unidad de Vigilancia Epidemiológica y Ambiental de Sonora (UVEAS), un compromiso que adquirió Grupo México, a través del Fideicomiso cancelado, y que no cumplió. 
+
+Aunque se aceptó que Grupo México no cumplió con algunas de sus obligaciones para la remediación, como la cancelación del Fideicomiso antes de dar todo el dinero que le correspondía y la no terminación de la UVEAS, no se respondió si habrá una nueva sanción para la empresa, si se re abrirá el Fideicomiso o si esto impactará en la continuación de la nueva presa de jales en Buenavista del Cobre.
+
+Si bien se presentaron algunas de las acciones que se llevarán a cabo, no se presentaron fechas de inicio ni un cronograma de las etapas del plan de remediación. Sobre la nueva presa de jales Toledo informó que se está en un periodo de 15 días en que la empresa puede responder sobre los hallazgos de las inspecciones realizadas por Profepa. 
+
+El presidente no quiso tomar más preguntas sobre el caso y aseguró que el 24 de diciembre se hablará más del tema.
 
