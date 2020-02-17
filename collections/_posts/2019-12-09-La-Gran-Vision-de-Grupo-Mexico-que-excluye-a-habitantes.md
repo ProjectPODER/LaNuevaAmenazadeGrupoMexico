@@ -76,7 +76,7 @@ Desde 2009, cinco años antes del derrame de lixiviado de cobre, que es el mayor
 
 Y aunque sí existió una sanción por el derrame de 2014 de lixiviado de cobre por 23,565,938 pesos de multa, además de los 2 mil millones de pesos para el Fideicomiso Río Sonora [^nota2] (de los cuáles se aportó sólo el 60% y que fue cancelado por la empresa y el gobierno de forma unilateral), las empresas detrás de la expansión de Buenavista del Cobre podrían haber pagado la sanción 28 veces sólo con sus activos provenientes de los otros contratos con el gobierno en los últimos 10 años.
 
-*[Descrubre a las contratistas de Grupo México]({{ site.baseurl }}/ellos-construyen-la-presa)*
+*[Descubre a las contratistas de Grupo México]({{ site.baseurl }}/ellos-construyen-la-presa)*
 
 ## Desconfianza justificada
 
